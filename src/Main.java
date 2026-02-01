@@ -1,5 +1,6 @@
 import model.Instrument;
 import server.TradingEngine;
+import server.OrderServer;
 import client.TradingBot;
 import java.util.Map;
 import java.util.HashMap;
@@ -13,8 +14,9 @@ import java.util.concurrent.TimeUnit;
  * Orchestrează:
  * - Crearea instrumentelor financiare
  * - Pornirea Trading Engine
+ * - Pornirea Order Server (TCP pe port 8080)
  * - Crearea și pornirea clienților (TradingBot)
- * - Oprirea sistemului după 3 minute
+ * - Oprirea sistemului după 1 minut
  */
 public class Main {
     // Configurație sistem
@@ -22,6 +24,8 @@ public class Main {
     private static final int NUM_THREADS = 4;
     private static final int NUM_CLIENTS = 5;
     private static final int RUNTIME_MINUTES = 1;
+    private static final int SERVER_PORT = 8080;
+    private static final String SERVER_HOST = "localhost";
     
     public static void main(String[] args) {
         System.out.println("╔════════════════════════════════════════════════════╗");
@@ -42,14 +46,27 @@ public class Main {
         engine.start();
         System.out.println();
         
-        // 3. Creează și pornește clienții (boți)
-        List<TradingBot> bots = createAndStartBots(engine, instruments);
+        // 3. Pornește Order Server (TCP)
+        OrderServer orderServer = new OrderServer(SERVER_PORT, engine);
+        orderServer.start();
+        
+        // Așteaptă 2 secunde ca serverul să fie gata
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        }
+        System.out.println();
+        
+        // 4. Creează și pornește clienții (boți) - conectare la server TCP
+        List<TradingBot> bots = createAndStartBots(SERVER_HOST, SERVER_PORT, instruments);
         System.out.println("✓ Boți porniți: " + bots.size());
         System.out.println();
         
-        // 4. Rulează timp de 3 minute
+        // 4. Rulează timp de 1 minut
         System.out.println("═══════════════════════════════════════════════════");
-        System.out.println("Sistem pornit - va rula " + RUNTIME_MINUTES + " minute...");
+        System.out.println("Sistem pornit - va rula " + RUNTIME_MINUTES + " minut(e)...");
+        System.out.println("Server TCP pe portul " + SERVER_PORT);
         System.out.println("═══════════════════════════════════════════════════");
         System.out.println();
         
@@ -70,6 +87,9 @@ public class Main {
             bot.stop();
         }
         System.out.println("✓ Boți opriți");
+        
+        // Oprește Order Server
+        orderServer.stop();
         
         // Oprește engine-ul
         engine.shutdown();
@@ -136,14 +156,15 @@ public class Main {
     
     /**
      * Creează și pornește boții de tranzacționare.
+     * Boții se conectează la server prin TCP socket.
      */
-    private static List<TradingBot> createAndStartBots(TradingEngine engine, 
+    private static List<TradingBot> createAndStartBots(String serverHost, int serverPort,
                                                        Map<String, Instrument> instruments) {
         List<TradingBot> bots = new ArrayList<>();
         
         for (int i = 1; i <= NUM_CLIENTS; i++) {
             String clientId = "CLIENT-" + i;
-            TradingBot bot = new TradingBot(clientId, engine, instruments);
+            TradingBot bot = new TradingBot(clientId, serverHost, serverPort, instruments);
             bot.start();
             bots.add(bot);
         }

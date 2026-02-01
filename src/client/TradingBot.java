@@ -1,56 +1,99 @@
 package client;
 
 import model.*;
-import server.TradingEngine;
-import util.IdGenerator;
 import java.util.Random;
 import java.util.Map;
 import java.util.concurrent.*;
+import java.io.*;
+import java.net.*;
 
 /**
  * Simulator de client (bot de tranzacționare).
- * Trimite ordine aleatorii către Trading Engine.
+ * Comunică cu serverul prin socket TCP (port 8080).
  */
 public class TradingBot implements Runnable {
     private final String clientId;
-    private final TradingEngine engine;
+    private final String serverHost;
+    private final int serverPort;
     private final Map<String, Instrument> instruments;
     private final Random random;
     private final ScheduledExecutorService scheduler;
+    private Socket socket;
+    private PrintWriter out;
+    private BufferedReader in;
+    private volatile boolean running = false;
     
     /**
      * Constructor pentru bot.
      * 
      * @param clientId ID-ul clientului
-     * @param engine Referință către Trading Engine
+     * @param serverHost Adresa serverului (ex: localhost)
+     * @param serverPort Portul serverului (ex: 8080)
      * @param instruments Map cu instrumentele disponibile
      */
-    public TradingBot(String clientId, TradingEngine engine, 
+    public TradingBot(String clientId, String serverHost, int serverPort,
                      Map<String, Instrument> instruments) {
         this.clientId = clientId;
-        this.engine = engine;
+        this.serverHost = serverHost;
+        this.serverPort = serverPort;
         this.instruments = instruments;
         this.random = new Random();
         this.scheduler = Executors.newSingleThreadScheduledExecutor();
     }
     
     /**
+     * Conectează botul la server.
+     */
+    private boolean connect() {
+        try {
+            socket = new Socket(serverHost, serverPort);
+            out = new PrintWriter(socket.getOutputStream(), true);
+            in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+            return true;
+        } catch (IOException e) {
+            System.err.println("Eroare conectare bot " + clientId + ": " + e.getMessage());
+            return false;
+        }
+    }
+    
+    /**
+     * Deconectează botul de la server.
+     */
+    private void disconnect() {
+        try {
+            if (in != null) in.close();
+            if (out != null) out.close();
+            if (socket != null) socket.close();
+        } catch (IOException e) {
+            // Ignoră erori la închidere
+        }
+    }
+    
+    /**
      * Pornește botul (trimite ordine la fiecare 1 secundă).
      */
     public void start() {
+        // Conectează la server
+        if (!connect()) {
+            System.err.println("Bot " + clientId + " nu s-a putut conecta la server!");
+            return;
+        }
+        
+        running = true;
         scheduler.scheduleAtFixedRate(
             this::sendRandomOrder,
             1,      // întârziere inițială
             1,      // perioadă
             TimeUnit.SECONDS
         );
-        System.out.println("Bot " + clientId + " pornit");
+        System.out.println("✓ Bot " + clientId + " pornit și conectat la " + serverHost + ":" + serverPort);
     }
     
     /**
      * Oprește botul.
      */
     public void stop() {
+        running = false;
         scheduler.shutdown();
         try {
             if (!scheduler.awaitTermination(2, TimeUnit.SECONDS)) {
@@ -60,13 +103,15 @@ public class TradingBot implements Runnable {
             scheduler.shutdownNow();
             Thread.currentThread().interrupt();
         }
+        disconnect();
     }
     
     /**
-     * Trimite un ordin aleator.
+     * Trimite un ordin aleator către server prin socket.
+     * Protocol: SUBMIT|clientId|instrumentId|orderType|volume|limitPrice
      */
     private void sendRandomOrder() {
-        if (!engine.isRunning()) {
+        if (!running) {
             return;
         }
         
@@ -92,23 +137,47 @@ public class TradingBot implements Runnable {
                 limitPrice = currentPrice * (0.9 + random.nextDouble() * 0.1);
             }
             
-            // Creează ordinul
-            String orderId = IdGenerator.generateOrderId();
-            Order order = new Order(orderId, clientId, instrument, orderType, volume, limitPrice);
-            
             System.out.printf("\n[%s] Trimite ordin: %s %s %.2f @ %.2f (curent: %.2f)\n",
                             clientId, orderType, instrument.getId(), 
                             volume, limitPrice, currentPrice);
             
-            // Trimite ordinul către engine
-            CompletableFuture<OrderStatus> future = engine.submitOrder(order);
+            // Construiește mesajul pentru server
+            // Format: SUBMIT|clientId|instrumentId|orderType|volume|limitPrice
+            String message = String.format("SUBMIT|%s|%s|%s|%.2f|%.2f",
+                                         clientId, 
+                                         instrument.getId(),
+                                         orderType.name(),
+                                         volume,
+                                         limitPrice);
             
-            // Așteaptă rezultatul (async)
-            future.thenAccept(status -> {
-                System.out.printf("[%s] Rezultat pentru %s: %s\n", 
-                                clientId, orderId, status);
-            });
+            // Trimite mesajul către server
+            out.println(message);
             
+            // Primește răspunsul (sincron pentru simplitate)
+            String response = in.readLine();
+            
+            if (response != null) {
+                // Parse răspuns: ACCEPTED|orderId sau REJECTED|reason
+                String[] parts = response.split("\\|", 2);
+                String status = parts[0];
+                String details = parts.length > 1 ? parts[1] : "";
+                
+                if ("ACCEPTED".equals(status)) {
+                    System.out.printf("[%s] ✓ Ordin %s ACCEPTAT\n", clientId, details);
+                } else if ("REJECTED".equals(status)) {
+                    System.out.printf("[%s] ✗ Ordin RESPINS: %s\n", clientId, details);
+                } else if ("ERROR".equals(status)) {
+                    System.err.printf("[%s] Eroare server: %s\n", clientId, details);
+                }
+            }
+            
+        } catch (IOException e) {
+            System.err.println("Eroare comunicare bot " + clientId + ": " + e.getMessage());
+            // Încearcă reconectare
+            disconnect();
+            if (running) {
+                connect();
+            }
         } catch (Exception e) {
             System.err.println("Eroare în bot " + clientId + ": " + e.getMessage());
         }

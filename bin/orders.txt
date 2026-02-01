@@ -1,302 +1,302 @@
 LOG ORDINE - Financial Engine
 ================================================================================
-2026-02-01 22:42:36 | Order[ORD-1, client=CLIENT-1, MSFT, SELL_LIMIT, vol=31.50, limit=328.69, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:36 | Order[ORD-2, client=CLIENT-3, AMZN, BUY_LIMIT, vol=19.31, limit=3488.98, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:36 | Order[ORD-3, client=CLIENT-2, AAPL, BUY_LIMIT, vol=44.85, limit=161.21, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:36 | Order[ORD-5, client=CLIENT-5, TSLA, SELL_LIMIT, vol=11.66, limit=874.02, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:36 | Order[ORD-4, client=CLIENT-4, AMZN, SELL_LIMIT, vol=68.91, limit=3216.20, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:37 | Order[ORD-6, client=CLIENT-1, AAPL, SELL_LIMIT, vol=49.09, limit=142.25, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:37 | Order[ORD-7, client=CLIENT-2, AAPL, SELL_LIMIT, vol=27.49, limit=147.90, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:37 | Order[ORD-8, client=CLIENT-3, AAPL, BUY_LIMIT, vol=49.12, limit=158.24, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:37 | Order[ORD-9, client=CLIENT-4, AAPL, SELL_LIMIT, vol=68.61, limit=149.88, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:37 | Order[ORD-10, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=53.98, limit=2973.92, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:38 | Order[ORD-11, client=CLIENT-1, AAPL, SELL_LIMIT, vol=35.50, limit=140.47, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:38 | Order[ORD-12, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=80.43, limit=2621.33, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:38 | Order[ORD-13, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=55.83, limit=2665.39, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:38 | Order[ORD-14, client=CLIENT-4, TSLA, SELL_LIMIT, vol=19.80, limit=827.58, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:38 | Order[ORD-15, client=CLIENT-5, TSLA, BUY_LIMIT, vol=23.24, limit=927.80, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:39 | Order[ORD-16, client=CLIENT-1, AAPL, SELL_LIMIT, vol=74.23, limit=139.48, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:39 | Order[ORD-17, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=21.06, limit=2724.88, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:39 | Order[ORD-18, client=CLIENT-3, AMZN, BUY_LIMIT, vol=88.81, limit=3485.77, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:39 | Order[ORD-19, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=55.07, limit=2994.09, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:39 | Order[ORD-20, client=CLIENT-5, MSFT, SELL_LIMIT, vol=40.21, limit=315.14, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:40 | Order[ORD-21, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=73.94, limit=2649.69, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:40 | Order[ORD-22, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=91.57, limit=2930.56, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:40 | Order[ORD-23, client=CLIENT-2, TSLA, SELL_LIMIT, vol=85.67, limit=824.38, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:40 | Order[ORD-24, client=CLIENT-4, AAPL, SELL_LIMIT, vol=71.26, limit=141.11, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:40 | Order[ORD-25, client=CLIENT-5, MSFT, BUY_LIMIT, vol=21.31, limit=349.10, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:41 | Order[ORD-26, client=CLIENT-1, TSLA, SELL_LIMIT, vol=16.64, limit=871.63, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:41 | Order[ORD-27, client=CLIENT-3, TSLA, BUY_LIMIT, vol=69.40, limit=890.71, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:41 | Order[ORD-28, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=73.79, limit=2791.88, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:41 | Order[ORD-29, client=CLIENT-5, AMZN, BUY_LIMIT, vol=30.12, limit=3423.77, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:41 | Order[ORD-30, client=CLIENT-4, TSLA, SELL_LIMIT, vol=37.83, limit=806.58, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:42 | Order[ORD-31, client=CLIENT-1, AAPL, BUY_LIMIT, vol=99.37, limit=166.29, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:42 | Order[ORD-32, client=CLIENT-2, TSLA, SELL_LIMIT, vol=10.97, limit=839.05, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:42 | Order[ORD-33, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=73.12, limit=2996.03, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:42 | Order[ORD-34, client=CLIENT-5, TSLA, SELL_LIMIT, vol=61.62, limit=826.69, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:42 | Order[ORD-35, client=CLIENT-4, AMZN, BUY_LIMIT, vol=25.13, limit=3589.70, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:43 | Order[ORD-36, client=CLIENT-1, AMZN, BUY_LIMIT, vol=68.46, limit=3489.25, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:43 | Order[ORD-37, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=35.95, limit=2703.87, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:43 | Order[ORD-40, client=CLIENT-5, TSLA, BUY_LIMIT, vol=30.68, limit=910.14, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:43 | Order[ORD-38, client=CLIENT-3, AMZN, BUY_LIMIT, vol=79.64, limit=3433.15, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:43 | Order[ORD-39, client=CLIENT-4, MSFT, SELL_LIMIT, vol=55.05, limit=310.92, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:44 | Order[ORD-41, client=CLIENT-1, AAPL, SELL_LIMIT, vol=17.46, limit=145.89, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:44 | Order[ORD-42, client=CLIENT-2, AAPL, BUY_LIMIT, vol=11.36, limit=169.88, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:44 | Order[ORD-43, client=CLIENT-4, MSFT, SELL_LIMIT, vol=31.52, limit=296.45, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:44 | Order[ORD-44, client=CLIENT-3, TSLA, BUY_LIMIT, vol=88.79, limit=922.28, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:44 | Order[ORD-45, client=CLIENT-5, AMZN, BUY_LIMIT, vol=62.99, limit=3491.71, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:45 | Order[ORD-46, client=CLIENT-1, AAPL, BUY_LIMIT, vol=22.89, limit=170.85, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:45 | Order[ORD-47, client=CLIENT-2, AMZN, BUY_LIMIT, vol=51.35, limit=3614.38, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:45 | Order[ORD-48, client=CLIENT-4, TSLA, SELL_LIMIT, vol=23.24, limit=861.82, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:45 | Order[ORD-49, client=CLIENT-3, AAPL, BUY_LIMIT, vol=52.45, limit=159.24, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:45 | Order[ORD-50, client=CLIENT-5, TSLA, BUY_LIMIT, vol=30.19, limit=945.66, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:46 | Order[ORD-51, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=18.52, limit=3090.22, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:46 | Order[ORD-52, client=CLIENT-2, TSLA, BUY_LIMIT, vol=31.11, limit=936.89, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:46 | Order[ORD-53, client=CLIENT-3, AAPL, SELL_LIMIT, vol=98.85, limit=154.08, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:46 | Order[ORD-54, client=CLIENT-4, MSFT, SELL_LIMIT, vol=34.31, limit=297.74, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:46 | Order[ORD-55, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=95.00, limit=3048.83, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:47 | Order[ORD-56, client=CLIENT-1, AMZN, SELL_LIMIT, vol=73.00, limit=3235.63, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:47 | Order[ORD-57, client=CLIENT-2, TSLA, BUY_LIMIT, vol=37.94, limit=896.80, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:47 | Order[ORD-58, client=CLIENT-3, AMZN, BUY_LIMIT, vol=75.65, limit=3526.75, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:47 | Order[ORD-59, client=CLIENT-4, AAPL, SELL_LIMIT, vol=39.36, limit=156.07, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:47 | Order[ORD-60, client=CLIENT-5, AMZN, BUY_LIMIT, vol=75.52, limit=3349.57, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:48 | Order[ORD-61, client=CLIENT-1, AMZN, SELL_LIMIT, vol=75.33, limit=3112.82, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:48 | Order[ORD-62, client=CLIENT-2, AAPL, SELL_LIMIT, vol=77.67, limit=157.90, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:48 | Order[ORD-63, client=CLIENT-3, TSLA, SELL_LIMIT, vol=19.87, limit=819.57, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:48 | Order[ORD-64, client=CLIENT-5, MSFT, SELL_LIMIT, vol=21.77, limit=317.83, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:48 | Order[ORD-65, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=44.34, limit=2916.18, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:49 | Order[ORD-66, client=CLIENT-1, MSFT, BUY_LIMIT, vol=76.18, limit=333.94, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:49 | Order[ORD-67, client=CLIENT-2, AAPL, BUY_LIMIT, vol=65.44, limit=173.71, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:49 | Order[ORD-68, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=29.70, limit=2601.28, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:49 | Order[ORD-69, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=30.57, limit=2865.25, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:49 | Order[ORD-70, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=43.41, limit=2592.52, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:50 | Order[ORD-71, client=CLIENT-1, TSLA, SELL_LIMIT, vol=86.36, limit=835.24, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:50 | Order[ORD-72, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=29.22, limit=2541.72, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:50 | Order[ORD-73, client=CLIENT-3, AMZN, SELL_LIMIT, vol=28.23, limit=3207.55, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:50 | Order[ORD-74, client=CLIENT-4, TSLA, BUY_LIMIT, vol=90.46, limit=884.65, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:50 | Order[ORD-75, client=CLIENT-5, TSLA, BUY_LIMIT, vol=24.23, limit=915.86, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:51 | Order[ORD-76, client=CLIENT-1, TSLA, SELL_LIMIT, vol=81.51, limit=837.49, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:51 | Order[ORD-77, client=CLIENT-2, MSFT, SELL_LIMIT, vol=39.51, limit=303.17, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:51 | Order[ORD-78, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=57.35, limit=2806.46, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:51 | Order[ORD-79, client=CLIENT-3, TSLA, BUY_LIMIT, vol=70.66, limit=858.09, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:51 | Order[ORD-80, client=CLIENT-5, AMZN, SELL_LIMIT, vol=41.29, limit=3169.62, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:52 | Order[ORD-81, client=CLIENT-1, MSFT, SELL_LIMIT, vol=84.93, limit=317.36, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:52 | Order[ORD-82, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=96.88, limit=3009.12, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:52 | Order[ORD-83, client=CLIENT-3, TSLA, BUY_LIMIT, vol=34.58, limit=892.76, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:52 | Order[ORD-84, client=CLIENT-4, MSFT, BUY_LIMIT, vol=16.54, limit=355.97, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:52 | Order[ORD-85, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=70.52, limit=2912.50, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:53 | Order[ORD-86, client=CLIENT-1, MSFT, SELL_LIMIT, vol=64.91, limit=315.38, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:53 | Order[ORD-88, client=CLIENT-3, AAPL, BUY_LIMIT, vol=22.03, limit=173.92, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:53 | Order[ORD-87, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=76.94, limit=2710.45, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:53 | Order[ORD-89, client=CLIENT-4, TSLA, SELL_LIMIT, vol=21.09, limit=847.25, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:53 | Order[ORD-90, client=CLIENT-5, AAPL, BUY_LIMIT, vol=81.73, limit=179.03, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:54 | Order[ORD-91, client=CLIENT-1, AAPL, SELL_LIMIT, vol=77.27, limit=164.08, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:54 | Order[ORD-92, client=CLIENT-2, TSLA, BUY_LIMIT, vol=88.57, limit=908.04, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:54 | Order[ORD-93, client=CLIENT-3, MSFT, SELL_LIMIT, vol=22.69, limit=298.47, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:54 | Order[ORD-94, client=CLIENT-4, TSLA, SELL_LIMIT, vol=97.12, limit=814.20, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:54 | Order[ORD-95, client=CLIENT-5, MSFT, BUY_LIMIT, vol=39.25, limit=333.56, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:55 | Order[ORD-96, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=37.68, limit=2660.32, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:55 | Order[ORD-97, client=CLIENT-2, AMZN, SELL_LIMIT, vol=11.25, limit=2988.04, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:55 | Order[ORD-98, client=CLIENT-3, TSLA, BUY_LIMIT, vol=83.25, limit=882.88, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:55 | Order[ORD-99, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=81.13, limit=2721.96, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:55 | Order[ORD-100, client=CLIENT-5, MSFT, BUY_LIMIT, vol=24.62, limit=332.49, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:56 | Order[ORD-101, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=18.90, limit=2563.51, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:56 | Order[ORD-102, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=47.79, limit=2646.05, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:56 | Order[ORD-103, client=CLIENT-3, MSFT, SELL_LIMIT, vol=48.83, limit=314.21, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:56 | Order[ORD-105, client=CLIENT-5, TSLA, SELL_LIMIT, vol=63.84, limit=825.64, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:56 | Order[ORD-104, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=75.16, limit=2979.05, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:57 | Order[ORD-106, client=CLIENT-1, MSFT, BUY_LIMIT, vol=83.01, limit=358.62, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:57 | Order[ORD-107, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=30.09, limit=2790.18, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:57 | Order[ORD-108, client=CLIENT-3, AAPL, BUY_LIMIT, vol=11.09, limit=179.70, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:57 | Order[ORD-109, client=CLIENT-4, TSLA, BUY_LIMIT, vol=19.55, limit=874.14, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:57 | Order[ORD-110, client=CLIENT-5, TSLA, BUY_LIMIT, vol=53.12, limit=913.63, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:58 | Order[ORD-111, client=CLIENT-1, AMZN, SELL_LIMIT, vol=10.50, limit=3293.11, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:58 | Order[ORD-112, client=CLIENT-2, AAPL, SELL_LIMIT, vol=72.63, limit=160.19, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:58 | Order[ORD-113, client=CLIENT-4, TSLA, SELL_LIMIT, vol=33.34, limit=856.39, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:58 | Order[ORD-115, client=CLIENT-3, MSFT, BUY_LIMIT, vol=45.53, limit=354.00, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:58 | Order[ORD-114, client=CLIENT-5, AAPL, BUY_LIMIT, vol=84.06, limit=183.59, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:59 | Order[ORD-116, client=CLIENT-1, TSLA, BUY_LIMIT, vol=48.44, limit=871.74, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:59 | Order[ORD-117, client=CLIENT-2, TSLA, SELL_LIMIT, vol=89.10, limit=797.22, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:59 | Order[ORD-118, client=CLIENT-3, MSFT, SELL_LIMIT, vol=91.69, limit=327.91, status=PENDING] - ACCEPTAT
-2026-02-01 22:42:59 | Order[ORD-119, client=CLIENT-5, TSLA, SELL_LIMIT, vol=47.02, limit=867.68, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:42:59 | Order[ORD-120, client=CLIENT-4, TSLA, SELL_LIMIT, vol=18.86, limit=867.21, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:00 | Order[ORD-121, client=CLIENT-1, AMZN, SELL_LIMIT, vol=10.09, limit=3286.43, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:00 | Order[ORD-124, client=CLIENT-3, TSLA, SELL_LIMIT, vol=42.24, limit=826.97, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:00 | Order[ORD-123, client=CLIENT-4, TSLA, SELL_LIMIT, vol=46.26, limit=860.62, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:00 | Order[ORD-122, client=CLIENT-2, TSLA, BUY_LIMIT, vol=68.61, limit=925.86, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:00 | Order[ORD-125, client=CLIENT-5, TSLA, BUY_LIMIT, vol=89.72, limit=912.91, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:01 | Order[ORD-126, client=CLIENT-1, AMZN, BUY_LIMIT, vol=13.39, limit=3616.43, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:01 | Order[ORD-127, client=CLIENT-2, AMZN, SELL_LIMIT, vol=90.41, limit=3303.02, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:01 | Order[ORD-128, client=CLIENT-3, MSFT, SELL_LIMIT, vol=74.29, limit=312.31, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:01 | Order[ORD-129, client=CLIENT-5, TSLA, SELL_LIMIT, vol=98.91, limit=794.09, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:01 | Order[ORD-130, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=43.31, limit=2760.20, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:02 | Order[ORD-131, client=CLIENT-1, AMZN, BUY_LIMIT, vol=20.48, limit=3324.99, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:02 | Order[ORD-133, client=CLIENT-4, AMZN, SELL_LIMIT, vol=61.58, limit=3290.05, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:02 | Order[ORD-132, client=CLIENT-2, TSLA, BUY_LIMIT, vol=95.74, limit=873.54, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:02 | Order[ORD-134, client=CLIENT-3, MSFT, BUY_LIMIT, vol=75.40, limit=336.56, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:02 | Order[ORD-135, client=CLIENT-5, MSFT, SELL_LIMIT, vol=88.55, limit=306.82, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:03 | Order[ORD-136, client=CLIENT-1, AMZN, BUY_LIMIT, vol=50.27, limit=3463.89, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:03 | Order[ORD-137, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=91.44, limit=3084.76, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:03 | Order[ORD-138, client=CLIENT-3, MSFT, SELL_LIMIT, vol=90.56, limit=320.18, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:03 | Order[ORD-139, client=CLIENT-4, AMZN, BUY_LIMIT, vol=90.90, limit=3484.87, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:03 | Order[ORD-140, client=CLIENT-5, TSLA, SELL_LIMIT, vol=21.65, limit=844.80, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:04 | Order[ORD-141, client=CLIENT-1, AAPL, SELL_LIMIT, vol=73.65, limit=160.43, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:04 | Order[ORD-142, client=CLIENT-2, AMZN, SELL_LIMIT, vol=26.88, limit=3229.86, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:04 | Order[ORD-143, client=CLIENT-4, AAPL, SELL_LIMIT, vol=94.67, limit=164.37, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:04 | Order[ORD-144, client=CLIENT-3, TSLA, BUY_LIMIT, vol=88.72, limit=917.62, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:04 | Order[ORD-145, client=CLIENT-5, AAPL, BUY_LIMIT, vol=46.91, limit=184.37, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:05 | Order[ORD-146, client=CLIENT-1, TSLA, SELL_LIMIT, vol=96.39, limit=833.71, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:05 | Order[ORD-147, client=CLIENT-2, MSFT, SELL_LIMIT, vol=33.40, limit=333.52, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:05 | Order[ORD-148, client=CLIENT-3, TSLA, SELL_LIMIT, vol=97.33, limit=851.28, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:05 | Order[ORD-149, client=CLIENT-4, AMZN, BUY_LIMIT, vol=19.03, limit=3350.50, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:05 | Order[ORD-150, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=67.26, limit=2936.72, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:06 | Order[ORD-151, client=CLIENT-1, AAPL, SELL_LIMIT, vol=20.87, limit=165.71, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:06 | Order[ORD-152, client=CLIENT-2, AAPL, BUY_LIMIT, vol=38.58, limit=187.82, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:06 | Order[ORD-153, client=CLIENT-3, AMZN, BUY_LIMIT, vol=57.10, limit=3506.57, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:06 | Order[ORD-154, client=CLIENT-4, AAPL, BUY_LIMIT, vol=77.90, limit=187.57, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:06 | Order[ORD-155, client=CLIENT-5, TSLA, BUY_LIMIT, vol=87.74, limit=869.59, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:07 | Order[ORD-156, client=CLIENT-1, AMZN, SELL_LIMIT, vol=95.79, limit=3227.18, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:07 | Order[ORD-157, client=CLIENT-2, MSFT, BUY_LIMIT, vol=20.26, limit=345.85, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:07 | Order[ORD-158, client=CLIENT-3, AAPL, BUY_LIMIT, vol=52.05, limit=179.75, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:07 | Order[ORD-159, client=CLIENT-4, MSFT, SELL_LIMIT, vol=82.51, limit=309.11, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:07 | Order[ORD-160, client=CLIENT-5, TSLA, BUY_LIMIT, vol=68.13, limit=864.57, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:08 | Order[ORD-161, client=CLIENT-1, MSFT, BUY_LIMIT, vol=78.73, limit=360.82, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:08 | Order[ORD-162, client=CLIENT-3, AMZN, SELL_LIMIT, vol=12.78, limit=3300.13, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:08 | Order[ORD-163, client=CLIENT-2, AMZN, BUY_LIMIT, vol=80.56, limit=3378.78, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:08 | Order[ORD-164, client=CLIENT-4, TSLA, SELL_LIMIT, vol=52.76, limit=801.24, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:08 | Order[ORD-165, client=CLIENT-5, AAPL, SELL_LIMIT, vol=52.03, limit=166.38, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:09 | Order[ORD-166, client=CLIENT-1, AMZN, BUY_LIMIT, vol=95.07, limit=3376.55, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:09 | Order[ORD-167, client=CLIENT-2, MSFT, SELL_LIMIT, vol=74.74, limit=335.21, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:09 | Order[ORD-168, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=34.40, limit=3057.54, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:09 | Order[ORD-169, client=CLIENT-4, TSLA, SELL_LIMIT, vol=20.87, limit=834.42, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:09 | Order[ORD-170, client=CLIENT-5, AMZN, SELL_LIMIT, vol=26.42, limit=3245.52, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:10 | Order[ORD-171, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=32.03, limit=2940.92, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:10 | Order[ORD-172, client=CLIENT-2, MSFT, BUY_LIMIT, vol=68.06, limit=359.86, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:10 | Order[ORD-173, client=CLIENT-3, TSLA, BUY_LIMIT, vol=81.50, limit=834.72, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:10 | Order[ORD-174, client=CLIENT-4, TSLA, SELL_LIMIT, vol=51.59, limit=832.68, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:10 | Order[ORD-175, client=CLIENT-5, MSFT, BUY_LIMIT, vol=37.23, limit=348.01, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:11 | Order[ORD-176, client=CLIENT-1, TSLA, SELL_LIMIT, vol=72.83, limit=827.13, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:11 | Order[ORD-177, client=CLIENT-3, AMZN, SELL_LIMIT, vol=78.68, limit=3310.18, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:11 | Order[ORD-178, client=CLIENT-4, TSLA, SELL_LIMIT, vol=51.05, limit=821.33, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:11 | Order[ORD-179, client=CLIENT-2, TSLA, SELL_LIMIT, vol=17.48, limit=814.33, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:11 | Order[ORD-180, client=CLIENT-5, AAPL, SELL_LIMIT, vol=31.84, limit=164.56, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:12 | Order[ORD-181, client=CLIENT-1, AAPL, SELL_LIMIT, vol=89.81, limit=173.48, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:12 | Order[ORD-182, client=CLIENT-3, TSLA, SELL_LIMIT, vol=79.67, limit=805.25, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:12 | Order[ORD-185, client=CLIENT-5, AAPL, SELL_LIMIT, vol=43.63, limit=167.81, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:12 | Order[ORD-183, client=CLIENT-2, MSFT, BUY_LIMIT, vol=57.72, limit=342.41, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:12 | Order[ORD-184, client=CLIENT-4, AAPL, BUY_LIMIT, vol=87.05, limit=178.60, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:13 | Order[ORD-186, client=CLIENT-1, AMZN, SELL_LIMIT, vol=35.86, limit=3255.35, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:13 | Order[ORD-187, client=CLIENT-2, TSLA, SELL_LIMIT, vol=28.42, limit=791.79, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:13 | Order[ORD-188, client=CLIENT-3, MSFT, BUY_LIMIT, vol=79.37, limit=363.76, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:13 | Order[ORD-189, client=CLIENT-4, MSFT, BUY_LIMIT, vol=57.35, limit=348.47, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:13 | Order[ORD-190, client=CLIENT-5, AAPL, BUY_LIMIT, vol=53.84, limit=180.92, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:14 | Order[ORD-191, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=27.14, limit=3009.00, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:14 | Order[ORD-193, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=27.18, limit=2599.21, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:14 | Order[ORD-192, client=CLIENT-2, AAPL, BUY_LIMIT, vol=10.42, limit=187.15, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:14 | Order[ORD-194, client=CLIENT-4, AMZN, SELL_LIMIT, vol=78.32, limit=3124.25, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:14 | Order[ORD-195, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=55.84, limit=2602.44, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:15 | Order[ORD-196, client=CLIENT-1, AMZN, BUY_LIMIT, vol=68.50, limit=3615.41, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:15 | Order[ORD-197, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=24.96, limit=3039.75, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:15 | Order[ORD-198, client=CLIENT-3, TSLA, SELL_LIMIT, vol=38.31, limit=804.33, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:15 | Order[ORD-199, client=CLIENT-4, TSLA, SELL_LIMIT, vol=70.81, limit=760.11, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:15 | Order[ORD-200, client=CLIENT-5, TSLA, SELL_LIMIT, vol=61.29, limit=783.26, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:16 | Order[ORD-201, client=CLIENT-1, TSLA, BUY_LIMIT, vol=54.12, limit=839.13, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:16 | Order[ORD-202, client=CLIENT-2, AMZN, BUY_LIMIT, vol=49.37, limit=3321.97, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:16 | Order[ORD-203, client=CLIENT-3, AMZN, BUY_LIMIT, vol=26.12, limit=3627.83, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:16 | Order[ORD-204, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=86.03, limit=2791.19, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:16 | Order[ORD-205, client=CLIENT-5, MSFT, BUY_LIMIT, vol=93.46, limit=353.73, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:17 | Order[ORD-206, client=CLIENT-1, TSLA, BUY_LIMIT, vol=10.44, limit=868.40, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:17 | Order[ORD-208, client=CLIENT-3, AMZN, BUY_LIMIT, vol=19.53, limit=3507.82, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:17 | Order[ORD-209, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=51.28, limit=2728.10, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:17 | Order[ORD-207, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=33.41, limit=2908.37, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:17 | Order[ORD-210, client=CLIENT-5, MSFT, BUY_LIMIT, vol=21.09, limit=358.18, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:18 | Order[ORD-211, client=CLIENT-1, AMZN, BUY_LIMIT, vol=61.28, limit=3526.59, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:18 | Order[ORD-212, client=CLIENT-2, TSLA, BUY_LIMIT, vol=53.48, limit=865.66, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:18 | Order[ORD-213, client=CLIENT-4, MSFT, SELL_LIMIT, vol=75.07, limit=337.26, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:18 | Order[ORD-214, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=65.75, limit=2776.75, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:18 | Order[ORD-215, client=CLIENT-5, TSLA, SELL_LIMIT, vol=11.57, limit=814.80, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:19 | Order[ORD-216, client=CLIENT-1, MSFT, BUY_LIMIT, vol=27.35, limit=371.06, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:19 | Order[ORD-217, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=35.27, limit=2860.60, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:19 | Order[ORD-218, client=CLIENT-3, AMZN, SELL_LIMIT, vol=68.24, limit=3158.82, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:19 | Order[ORD-219, client=CLIENT-4, MSFT, BUY_LIMIT, vol=94.27, limit=360.98, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:19 | Order[ORD-220, client=CLIENT-5, AMZN, SELL_LIMIT, vol=59.82, limit=3070.91, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:20 | Order[ORD-221, client=CLIENT-1, AAPL, SELL_LIMIT, vol=95.61, limit=174.20, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:20 | Order[ORD-222, client=CLIENT-2, MSFT, BUY_LIMIT, vol=50.13, limit=367.44, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:20 | Order[ORD-223, client=CLIENT-4, MSFT, BUY_LIMIT, vol=19.99, limit=367.29, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:20 | Order[ORD-224, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=40.61, limit=2657.04, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:20 | Order[ORD-225, client=CLIENT-5, TSLA, SELL_LIMIT, vol=55.45, limit=769.04, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:21 | Order[ORD-226, client=CLIENT-1, AMZN, SELL_LIMIT, vol=62.54, limit=3034.28, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:21 | Order[ORD-227, client=CLIENT-2, AMZN, SELL_LIMIT, vol=79.92, limit=3090.57, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:21 | Order[ORD-228, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=88.50, limit=2992.69, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:21 | Order[ORD-229, client=CLIENT-5, MSFT, BUY_LIMIT, vol=88.63, limit=368.03, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:21 | Order[ORD-230, client=CLIENT-4, AMZN, BUY_LIMIT, vol=99.54, limit=3403.59, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:22 | Order[ORD-231, client=CLIENT-1, MSFT, SELL_LIMIT, vol=80.34, limit=328.95, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:22 | Order[ORD-234, client=CLIENT-4, AAPL, SELL_LIMIT, vol=59.01, limit=172.74, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:22 | Order[ORD-232, client=CLIENT-2, TSLA, BUY_LIMIT, vol=80.03, limit=893.55, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:22 | Order[ORD-233, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=30.10, limit=2754.82, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:22 | Order[ORD-235, client=CLIENT-5, TSLA, SELL_LIMIT, vol=15.75, limit=816.37, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:23 | Order[ORD-236, client=CLIENT-1, TSLA, BUY_LIMIT, vol=85.14, limit=846.13, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:23 | Order[ORD-237, client=CLIENT-2, AMZN, BUY_LIMIT, vol=59.71, limit=3500.29, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:23 | Order[ORD-238, client=CLIENT-3, AAPL, SELL_LIMIT, vol=60.91, limit=173.83, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:23 | Order[ORD-239, client=CLIENT-4, TSLA, SELL_LIMIT, vol=36.05, limit=826.21, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:23 | Order[ORD-240, client=CLIENT-5, TSLA, BUY_LIMIT, vol=56.52, limit=905.12, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:24 | Order[ORD-241, client=CLIENT-1, AAPL, SELL_LIMIT, vol=19.57, limit=176.90, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:24 | Order[ORD-242, client=CLIENT-2, AAPL, SELL_LIMIT, vol=75.31, limit=165.69, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:24 | Order[ORD-244, client=CLIENT-5, AAPL, BUY_LIMIT, vol=72.58, limit=195.23, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:24 | Order[ORD-243, client=CLIENT-4, AMZN, SELL_LIMIT, vol=75.63, limit=3022.32, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:24 | Order[ORD-245, client=CLIENT-3, MSFT, BUY_LIMIT, vol=67.91, limit=370.28, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:25 | Order[ORD-246, client=CLIENT-1, MSFT, BUY_LIMIT, vol=72.88, limit=353.20, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:25 | Order[ORD-247, client=CLIENT-2, TSLA, SELL_LIMIT, vol=59.80, limit=827.05, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:25 | Order[ORD-248, client=CLIENT-3, AMZN, SELL_LIMIT, vol=25.17, limit=3158.10, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:25 | Order[ORD-249, client=CLIENT-4, TSLA, SELL_LIMIT, vol=90.84, limit=794.30, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:25 | Order[ORD-250, client=CLIENT-5, MSFT, SELL_LIMIT, vol=40.11, limit=324.11, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:26 | Order[ORD-251, client=CLIENT-1, MSFT, BUY_LIMIT, vol=12.50, limit=349.32, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:26 | Order[ORD-252, client=CLIENT-3, AMZN, BUY_LIMIT, vol=81.54, limit=3559.12, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:26 | Order[ORD-253, client=CLIENT-2, AMZN, SELL_LIMIT, vol=28.26, limit=3178.62, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:26 | Order[ORD-254, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=93.91, limit=3060.83, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:26 | Order[ORD-255, client=CLIENT-5, TSLA, SELL_LIMIT, vol=62.58, limit=813.13, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:27 | Order[ORD-256, client=CLIENT-1, AMZN, BUY_LIMIT, vol=98.15, limit=3534.84, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:27 | Order[ORD-258, client=CLIENT-3, MSFT, BUY_LIMIT, vol=21.49, limit=352.59, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:27 | Order[ORD-257, client=CLIENT-2, AAPL, SELL_LIMIT, vol=90.74, limit=177.68, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:27 | Order[ORD-259, client=CLIENT-4, AMZN, BUY_LIMIT, vol=53.28, limit=3568.93, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:27 | Order[ORD-260, client=CLIENT-5, TSLA, SELL_LIMIT, vol=15.80, limit=836.50, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:28 | Order[ORD-261, client=CLIENT-1, TSLA, SELL_LIMIT, vol=12.78, limit=800.71, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:28 | Order[ORD-262, client=CLIENT-3, MSFT, BUY_LIMIT, vol=41.56, limit=349.87, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:28 | Order[ORD-263, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=70.06, limit=3021.15, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:28 | Order[ORD-264, client=CLIENT-5, AMZN, BUY_LIMIT, vol=59.07, limit=3486.55, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:28 | Order[ORD-265, client=CLIENT-4, AAPL, BUY_LIMIT, vol=22.09, limit=190.05, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:29 | Order[ORD-266, client=CLIENT-1, TSLA, SELL_LIMIT, vol=95.51, limit=790.88, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:29 | Order[ORD-267, client=CLIENT-2, AMZN, BUY_LIMIT, vol=35.84, limit=3510.62, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:29 | Order[ORD-268, client=CLIENT-4, AAPL, BUY_LIMIT, vol=96.11, limit=199.45, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:29 | Order[ORD-269, client=CLIENT-3, TSLA, BUY_LIMIT, vol=22.10, limit=899.31, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:29 | Order[ORD-270, client=CLIENT-5, AAPL, SELL_LIMIT, vol=52.15, limit=172.88, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:30 | Order[ORD-271, client=CLIENT-1, MSFT, BUY_LIMIT, vol=24.54, limit=341.96, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:30 | Order[ORD-272, client=CLIENT-2, TSLA, SELL_LIMIT, vol=48.02, limit=800.88, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:30 | Order[ORD-273, client=CLIENT-3, TSLA, SELL_LIMIT, vol=15.63, limit=836.95, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:30 | Order[ORD-274, client=CLIENT-4, AAPL, SELL_LIMIT, vol=17.74, limit=166.31, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:30 | Order[ORD-275, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=76.74, limit=2829.30, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:31 | Order[ORD-276, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=42.10, limit=2666.53, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:31 | Order[ORD-277, client=CLIENT-3, AMZN, BUY_LIMIT, vol=65.56, limit=3561.11, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:31 | Order[ORD-278, client=CLIENT-2, AAPL, BUY_LIMIT, vol=76.80, limit=198.87, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:31 | Order[ORD-279, client=CLIENT-4, AAPL, BUY_LIMIT, vol=85.27, limit=198.40, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:31 | Order[ORD-280, client=CLIENT-5, AMZN, SELL_LIMIT, vol=95.99, limit=3100.25, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:32 | Order[ORD-281, client=CLIENT-1, MSFT, BUY_LIMIT, vol=84.41, limit=357.84, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:32 | Order[ORD-282, client=CLIENT-2, MSFT, BUY_LIMIT, vol=16.99, limit=345.54, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:32 | Order[ORD-283, client=CLIENT-3, AMZN, BUY_LIMIT, vol=30.38, limit=3410.35, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:32 | Order[ORD-284, client=CLIENT-4, TSLA, SELL_LIMIT, vol=43.82, limit=842.67, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:32 | Order[ORD-285, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=81.78, limit=2652.01, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:33 | Order[ORD-286, client=CLIENT-1, AMZN, SELL_LIMIT, vol=99.50, limit=3245.80, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:33 | Order[ORD-287, client=CLIENT-3, AMZN, SELL_LIMIT, vol=79.41, limit=3318.34, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:33 | Order[ORD-288, client=CLIENT-2, MSFT, BUY_LIMIT, vol=89.56, limit=343.31, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:33 | Order[ORD-289, client=CLIENT-5, AMZN, SELL_LIMIT, vol=92.76, limit=3212.64, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:33 | Order[ORD-290, client=CLIENT-4, AMZN, BUY_LIMIT, vol=50.20, limit=3405.91, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:34 | Order[ORD-291, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=67.84, limit=2587.33, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:34 | Order[ORD-292, client=CLIENT-2, AAPL, BUY_LIMIT, vol=12.75, limit=203.02, status=PENDING] - ACCEPTAT
-2026-02-01 22:43:34 | Order[ORD-293, client=CLIENT-4, TSLA, BUY_LIMIT, vol=14.17, limit=877.11, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:34 | Order[ORD-294, client=CLIENT-3, AMZN, BUY_LIMIT, vol=80.10, limit=3359.27, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:34 | Order[ORD-295, client=CLIENT-5, MSFT, SELL_LIMIT, vol=30.96, limit=301.87, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:35 | Order[ORD-296, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=65.31, limit=2620.89, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:35 | Order[ORD-297, client=CLIENT-3, AAPL, SELL_LIMIT, vol=54.48, limit=178.81, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:35 | Order[ORD-298, client=CLIENT-2, AAPL, BUY_LIMIT, vol=60.41, limit=203.32, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:35 | Order[ORD-300, client=CLIENT-5, MSFT, SELL_LIMIT, vol=73.14, limit=319.85, status=REJECTED] - REJECTED (lichiditate insuficientă)
-2026-02-01 22:43:35 | Order[ORD-299, client=CLIENT-4, MSFT, BUY_LIMIT, vol=74.82, limit=356.13, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:23 | Order[ORD-1, client=CLIENT-1, MSFT, BUY_LIMIT, vol=75.69, limit=345.78, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:23 | Order[ORD-2, client=CLIENT-2, TSLA, BUY_LIMIT, vol=94.09, limit=970.37, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:23 | Order[ORD-3, client=CLIENT-4, TSLA, BUY_LIMIT, vol=82.45, limit=961.78, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:23 | Order[ORD-4, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=25.82, limit=2615.65, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:23 | Order[ORD-5, client=CLIENT-5, TSLA, SELL_LIMIT, vol=28.65, limit=870.47, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:24 | Order[ORD-6, client=CLIENT-1, MSFT, SELL_LIMIT, vol=70.92, limit=317.91, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:24 | Order[ORD-7, client=CLIENT-2, MSFT, SELL_LIMIT, vol=31.17, limit=331.16, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:24 | Order[ORD-8, client=CLIENT-3, TSLA, BUY_LIMIT, vol=28.09, limit=923.30, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:24 | Order[ORD-9, client=CLIENT-4, TSLA, BUY_LIMIT, vol=44.32, limit=917.81, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:24 | Order[ORD-10, client=CLIENT-5, AMZN, BUY_LIMIT, vol=97.38, limit=3547.35, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:25 | Order[ORD-11, client=CLIENT-1, TSLA, BUY_LIMIT, vol=32.82, limit=915.23, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:25 | Order[ORD-12, client=CLIENT-2, TSLA, SELL_LIMIT, vol=31.41, limit=853.88, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:25 | Order[ORD-13, client=CLIENT-3, TSLA, SELL_LIMIT, vol=88.86, limit=834.95, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:25 | Order[ORD-14, client=CLIENT-4, TSLA, BUY_LIMIT, vol=36.79, limit=910.90, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:25 | Order[ORD-15, client=CLIENT-5, AMZN, SELL_LIMIT, vol=69.54, limit=3201.88, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:26 | Order[ORD-16, client=CLIENT-1, AAPL, SELL_LIMIT, vol=75.80, limit=132.18, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:26 | Order[ORD-17, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=54.42, limit=2857.26, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:26 | Order[ORD-18, client=CLIENT-3, MSFT, BUY_LIMIT, vol=43.77, limit=361.03, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:26 | Order[ORD-19, client=CLIENT-4, TSLA, SELL_LIMIT, vol=84.84, limit=837.98, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:26 | Order[ORD-20, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=98.27, limit=2811.09, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:27 | Order[ORD-21, client=CLIENT-1, TSLA, BUY_LIMIT, vol=78.55, limit=944.52, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:27 | Order[ORD-22, client=CLIENT-2, TSLA, SELL_LIMIT, vol=81.75, limit=923.47, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:27 | Order[ORD-23, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=57.03, limit=3059.85, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:27 | Order[ORD-24, client=CLIENT-4, TSLA, BUY_LIMIT, vol=73.23, limit=972.65, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:27 | Order[ORD-25, client=CLIENT-5, AMZN, BUY_LIMIT, vol=83.68, limit=3513.71, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:28 | Order[ORD-26, client=CLIENT-1, AAPL, SELL_LIMIT, vol=51.68, limit=128.74, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:28 | Order[ORD-27, client=CLIENT-2, AMZN, BUY_LIMIT, vol=15.63, limit=3309.30, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:28 | Order[ORD-28, client=CLIENT-4, TSLA, SELL_LIMIT, vol=27.82, limit=867.26, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:28 | Order[ORD-29, client=CLIENT-3, AAPL, SELL_LIMIT, vol=50.55, limit=137.71, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:28 | Order[ORD-30, client=CLIENT-5, MSFT, SELL_LIMIT, vol=24.62, limit=335.66, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:29 | Order[ORD-31, client=CLIENT-1, MSFT, BUY_LIMIT, vol=92.98, limit=341.24, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:29 | Order[ORD-32, client=CLIENT-2, AMZN, SELL_LIMIT, vol=10.48, limit=3117.05, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:29 | Order[ORD-33, client=CLIENT-5, AAPL, SELL_LIMIT, vol=88.49, limit=130.22, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:29 | Order[ORD-34, client=CLIENT-4, AAPL, SELL_LIMIT, vol=47.95, limit=140.10, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:29 | Order[ORD-35, client=CLIENT-3, TSLA, SELL_LIMIT, vol=23.78, limit=903.75, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:30 | Order[ORD-36, client=CLIENT-1, TSLA, SELL_LIMIT, vol=11.92, limit=825.41, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:30 | Order[ORD-37, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=10.86, limit=2844.98, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:30 | Order[ORD-38, client=CLIENT-3, AMZN, BUY_LIMIT, vol=33.73, limit=3553.24, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:30 | Order[ORD-39, client=CLIENT-4, TSLA, BUY_LIMIT, vol=46.66, limit=954.02, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:30 | Order[ORD-40, client=CLIENT-5, MSFT, SELL_LIMIT, vol=77.36, limit=302.83, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:31 | Order[ORD-41, client=CLIENT-1, TSLA, BUY_LIMIT, vol=60.15, limit=921.77, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:31 | Order[ORD-42, client=CLIENT-3, AAPL, BUY_LIMIT, vol=66.98, limit=159.21, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:31 | Order[ORD-43, client=CLIENT-2, TSLA, SELL_LIMIT, vol=35.76, limit=845.92, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:31 | Order[ORD-44, client=CLIENT-4, MSFT, BUY_LIMIT, vol=84.13, limit=361.70, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:31 | Order[ORD-45, client=CLIENT-5, TSLA, SELL_LIMIT, vol=15.36, limit=820.49, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:32 | Order[ORD-46, client=CLIENT-1, MSFT, SELL_LIMIT, vol=55.94, limit=307.22, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:32 | Order[ORD-47, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=72.42, limit=2696.05, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:32 | Order[ORD-48, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=53.12, limit=3049.79, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:32 | Order[ORD-49, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=89.53, limit=2932.37, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:32 | Order[ORD-50, client=CLIENT-5, AMZN, SELL_LIMIT, vol=42.84, limit=3178.99, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:33 | Order[ORD-51, client=CLIENT-1, AMZN, BUY_LIMIT, vol=12.66, limit=3455.87, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:33 | Order[ORD-52, client=CLIENT-2, AMZN, SELL_LIMIT, vol=31.51, limit=3274.72, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:33 | Order[ORD-53, client=CLIENT-4, AAPL, BUY_LIMIT, vol=50.15, limit=152.32, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:33 | Order[ORD-54, client=CLIENT-5, AAPL, SELL_LIMIT, vol=13.48, limit=142.00, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:33 | Order[ORD-55, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=78.99, limit=2835.42, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:34 | Order[ORD-56, client=CLIENT-1, MSFT, BUY_LIMIT, vol=51.98, limit=353.91, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:34 | Order[ORD-57, client=CLIENT-3, AMZN, SELL_LIMIT, vol=61.49, limit=3085.70, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:34 | Order[ORD-58, client=CLIENT-2, TSLA, SELL_LIMIT, vol=52.78, limit=899.39, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:34 | Order[ORD-59, client=CLIENT-4, AMZN, SELL_LIMIT, vol=26.95, limit=3079.60, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:34 | Order[ORD-60, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=47.41, limit=2784.86, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:35 | Order[ORD-61, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=89.87, limit=3059.18, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:35 | Order[ORD-62, client=CLIENT-3, MSFT, SELL_LIMIT, vol=39.47, limit=328.39, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:35 | Order[ORD-63, client=CLIENT-2, MSFT, BUY_LIMIT, vol=59.51, limit=339.16, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:35 | Order[ORD-64, client=CLIENT-4, AAPL, BUY_LIMIT, vol=92.77, limit=158.90, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:35 | Order[ORD-65, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=83.89, limit=2722.82, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:36 | Order[ORD-66, client=CLIENT-1, AAPL, SELL_LIMIT, vol=61.62, limit=131.94, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:36 | Order[ORD-67, client=CLIENT-2, MSFT, BUY_LIMIT, vol=21.82, limit=366.21, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:36 | Order[ORD-68, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=83.32, limit=2675.98, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:36 | Order[ORD-69, client=CLIENT-4, TSLA, BUY_LIMIT, vol=48.01, limit=926.94, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:36 | Order[ORD-70, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=88.18, limit=2800.65, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:37 | Order[ORD-71, client=CLIENT-1, AAPL, SELL_LIMIT, vol=85.18, limit=132.84, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:37 | Order[ORD-72, client=CLIENT-2, MSFT, SELL_LIMIT, vol=15.66, limit=317.44, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:37 | Order[ORD-73, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=57.32, limit=2876.46, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:37 | Order[ORD-74, client=CLIENT-4, TSLA, SELL_LIMIT, vol=41.95, limit=875.28, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:37 | Order[ORD-75, client=CLIENT-5, AAPL, BUY_LIMIT, vol=42.05, limit=150.52, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:38 | Order[ORD-76, client=CLIENT-1, MSFT, BUY_LIMIT, vol=12.95, limit=348.69, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:38 | Order[ORD-77, client=CLIENT-2, MSFT, SELL_LIMIT, vol=95.15, limit=302.02, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:38 | Order[ORD-78, client=CLIENT-3, MSFT, SELL_LIMIT, vol=72.99, limit=329.46, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:38 | Order[ORD-79, client=CLIENT-4, AMZN, SELL_LIMIT, vol=83.53, limit=2978.76, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:38 | Order[ORD-80, client=CLIENT-5, AAPL, BUY_LIMIT, vol=33.38, limit=157.43, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:39 | Order[ORD-81, client=CLIENT-1, AMZN, SELL_LIMIT, vol=39.11, limit=3149.09, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:39 | Order[ORD-82, client=CLIENT-2, TSLA, BUY_LIMIT, vol=20.72, limit=895.01, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:39 | Order[ORD-83, client=CLIENT-4, AMZN, SELL_LIMIT, vol=10.66, limit=3066.32, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:39 | Order[ORD-84, client=CLIENT-3, MSFT, BUY_LIMIT, vol=68.09, limit=336.97, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:39 | Order[ORD-85, client=CLIENT-5, TSLA, SELL_LIMIT, vol=76.23, limit=819.92, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:40 | Order[ORD-86, client=CLIENT-1, TSLA, SELL_LIMIT, vol=49.52, limit=842.31, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:40 | Order[ORD-87, client=CLIENT-3, AMZN, SELL_LIMIT, vol=57.36, limit=3147.29, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:40 | Order[ORD-88, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=89.77, limit=2874.96, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:40 | Order[ORD-89, client=CLIENT-4, AMZN, SELL_LIMIT, vol=33.02, limit=3028.57, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:40 | Order[ORD-90, client=CLIENT-5, AMZN, BUY_LIMIT, vol=51.19, limit=3481.01, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:41 | Order[ORD-91, client=CLIENT-1, TSLA, SELL_LIMIT, vol=26.90, limit=883.25, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:41 | Order[ORD-92, client=CLIENT-2, MSFT, BUY_LIMIT, vol=11.88, limit=344.78, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:41 | Order[ORD-93, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=87.60, limit=2791.93, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:41 | Order[ORD-94, client=CLIENT-3, MSFT, BUY_LIMIT, vol=57.35, limit=355.63, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:41 | Order[ORD-95, client=CLIENT-5, MSFT, SELL_LIMIT, vol=91.92, limit=328.32, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:42 | Order[ORD-96, client=CLIENT-1, MSFT, SELL_LIMIT, vol=16.47, limit=312.88, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:42 | Order[ORD-97, client=CLIENT-2, TSLA, BUY_LIMIT, vol=51.92, limit=927.52, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:42 | Order[ORD-98, client=CLIENT-3, TSLA, SELL_LIMIT, vol=16.10, limit=865.61, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:42 | Order[ORD-99, client=CLIENT-4, AMZN, SELL_LIMIT, vol=46.13, limit=3009.81, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:42 | Order[ORD-100, client=CLIENT-5, MSFT, SELL_LIMIT, vol=10.79, limit=307.07, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:43 | Order[ORD-101, client=CLIENT-1, MSFT, BUY_LIMIT, vol=65.19, limit=335.24, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:43 | Order[ORD-102, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=55.22, limit=2732.43, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:43 | Order[ORD-103, client=CLIENT-4, AAPL, SELL_LIMIT, vol=23.13, limit=135.41, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:43 | Order[ORD-104, client=CLIENT-3, TSLA, SELL_LIMIT, vol=19.85, limit=898.66, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:43 | Order[ORD-105, client=CLIENT-5, AAPL, BUY_LIMIT, vol=82.55, limit=157.69, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:44 | Order[ORD-106, client=CLIENT-1, AAPL, BUY_LIMIT, vol=50.58, limit=152.94, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:44 | Order[ORD-107, client=CLIENT-2, TSLA, BUY_LIMIT, vol=85.51, limit=940.12, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:44 | Order[ORD-108, client=CLIENT-3, AAPL, BUY_LIMIT, vol=99.20, limit=160.74, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:44 | Order[ORD-109, client=CLIENT-4, TSLA, BUY_LIMIT, vol=27.17, limit=949.83, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:44 | Order[ORD-110, client=CLIENT-5, TSLA, SELL_LIMIT, vol=52.44, limit=889.51, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:45 | Order[ORD-111, client=CLIENT-1, AMZN, BUY_LIMIT, vol=19.74, limit=3337.99, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:45 | Order[ORD-112, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=14.66, limit=2849.74, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:45 | Order[ORD-113, client=CLIENT-3, AMZN, SELL_LIMIT, vol=90.87, limit=3171.93, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:45 | Order[ORD-114, client=CLIENT-4, MSFT, BUY_LIMIT, vol=98.66, limit=340.88, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:45 | Order[ORD-115, client=CLIENT-5, MSFT, SELL_LIMIT, vol=46.27, limit=320.62, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:46 | Order[ORD-116, client=CLIENT-1, AMZN, BUY_LIMIT, vol=84.78, limit=3629.92, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:46 | Order[ORD-117, client=CLIENT-2, MSFT, SELL_LIMIT, vol=47.24, limit=314.44, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:46 | Order[ORD-118, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=54.54, limit=2668.97, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:46 | Order[ORD-119, client=CLIENT-4, AMZN, SELL_LIMIT, vol=43.73, limit=3140.45, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:46 | Order[ORD-120, client=CLIENT-5, TSLA, BUY_LIMIT, vol=99.83, limit=894.18, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:47 | Order[ORD-121, client=CLIENT-1, AAPL, SELL_LIMIT, vol=38.98, limit=140.13, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:47 | Order[ORD-122, client=CLIENT-2, MSFT, BUY_LIMIT, vol=92.02, limit=356.32, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:47 | Order[ORD-123, client=CLIENT-3, AMZN, BUY_LIMIT, vol=21.38, limit=3506.29, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:47 | Order[ORD-124, client=CLIENT-4, MSFT, BUY_LIMIT, vol=68.63, limit=339.50, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:47 | Order[ORD-125, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=11.22, limit=2602.24, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:48 | Order[ORD-126, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=92.30, limit=3050.39, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:48 | Order[ORD-127, client=CLIENT-2, MSFT, SELL_LIMIT, vol=56.67, limit=326.07, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:48 | Order[ORD-128, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=23.07, limit=2503.07, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:48 | Order[ORD-129, client=CLIENT-4, TSLA, BUY_LIMIT, vol=69.93, limit=949.32, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:48 | Order[ORD-130, client=CLIENT-5, MSFT, SELL_LIMIT, vol=91.94, limit=301.69, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:49 | Order[ORD-131, client=CLIENT-1, TSLA, SELL_LIMIT, vol=19.86, limit=838.84, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:49 | Order[ORD-132, client=CLIENT-2, MSFT, SELL_LIMIT, vol=61.10, limit=297.62, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:49 | Order[ORD-133, client=CLIENT-3, TSLA, SELL_LIMIT, vol=10.06, limit=848.13, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:49 | Order[ORD-134, client=CLIENT-4, AAPL, SELL_LIMIT, vol=27.80, limit=134.12, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:49 | Order[ORD-135, client=CLIENT-5, AMZN, BUY_LIMIT, vol=25.36, limit=3582.70, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:50 | Order[ORD-136, client=CLIENT-1, AMZN, BUY_LIMIT, vol=55.88, limit=3536.85, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:50 | Order[ORD-137, client=CLIENT-2, TSLA, BUY_LIMIT, vol=70.24, limit=967.86, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:50 | Order[ORD-138, client=CLIENT-3, TSLA, SELL_LIMIT, vol=20.15, limit=834.82, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:50 | Order[ORD-139, client=CLIENT-4, AMZN, BUY_LIMIT, vol=71.84, limit=3416.02, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:50 | Order[ORD-140, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=25.22, limit=2765.73, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:51 | Order[ORD-141, client=CLIENT-1, TSLA, SELL_LIMIT, vol=78.43, limit=834.35, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:51 | Order[ORD-142, client=CLIENT-2, AMZN, BUY_LIMIT, vol=53.54, limit=3614.21, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:51 | Order[ORD-143, client=CLIENT-3, AAPL, SELL_LIMIT, vol=25.94, limit=145.64, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:51 | Order[ORD-144, client=CLIENT-4, AAPL, SELL_LIMIT, vol=36.29, limit=146.73, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:51 | Order[ORD-145, client=CLIENT-5, MSFT, SELL_LIMIT, vol=86.86, limit=294.56, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:52 | Order[ORD-146, client=CLIENT-1, TSLA, BUY_LIMIT, vol=68.87, limit=920.90, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:52 | Order[ORD-147, client=CLIENT-2, MSFT, SELL_LIMIT, vol=17.80, limit=303.03, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:52 | Order[ORD-148, client=CLIENT-3, TSLA, BUY_LIMIT, vol=64.66, limit=917.85, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:52 | Order[ORD-149, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=10.23, limit=2646.46, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:52 | Order[ORD-150, client=CLIENT-5, AMZN, SELL_LIMIT, vol=47.87, limit=3015.47, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:53 | Order[ORD-151, client=CLIENT-1, TSLA, BUY_LIMIT, vol=36.24, limit=940.74, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:53 | Order[ORD-152, client=CLIENT-2, AAPL, BUY_LIMIT, vol=12.11, limit=146.77, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:53 | Order[ORD-153, client=CLIENT-3, AAPL, SELL_LIMIT, vol=78.71, limit=140.04, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:53 | Order[ORD-154, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=73.71, limit=2746.58, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:53 | Order[ORD-155, client=CLIENT-5, AAPL, BUY_LIMIT, vol=60.51, limit=152.47, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:54 | Order[ORD-156, client=CLIENT-1, TSLA, BUY_LIMIT, vol=12.27, limit=943.10, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:54 | Order[ORD-157, client=CLIENT-2, MSFT, SELL_LIMIT, vol=39.35, limit=328.34, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:54 | Order[ORD-158, client=CLIENT-4, MSFT, BUY_LIMIT, vol=95.79, limit=337.30, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:54 | Order[ORD-159, client=CLIENT-3, MSFT, BUY_LIMIT, vol=34.05, limit=354.40, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:54 | Order[ORD-160, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=88.10, limit=2884.77, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:55 | Order[ORD-161, client=CLIENT-1, MSFT, SELL_LIMIT, vol=12.69, limit=324.88, status=PENDING] - ACCEPTAT
+2026-02-01 23:09:55 | Order[ORD-162, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=63.29, limit=2571.28, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:55 | Order[ORD-163, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=82.49, limit=2849.77, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:55 | Order[ORD-164, client=CLIENT-5, AMZN, SELL_LIMIT, vol=11.28, limit=3227.47, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:55 | Order[ORD-165, client=CLIENT-4, AAPL, SELL_LIMIT, vol=13.00, limit=144.39, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:56 | Order[ORD-166, client=CLIENT-1, AMZN, BUY_LIMIT, vol=41.77, limit=3612.09, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:56 | Order[ORD-167, client=CLIENT-2, AAPL, SELL_LIMIT, vol=47.31, limit=143.65, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:56 | Order[ORD-168, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=12.00, limit=2667.94, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:56 | Order[ORD-169, client=CLIENT-4, AMZN, SELL_LIMIT, vol=19.08, limit=3304.15, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:56 | Order[ORD-170, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=17.01, limit=2894.64, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:57 | Order[ORD-171, client=CLIENT-1, TSLA, BUY_LIMIT, vol=75.55, limit=891.56, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:57 | Order[ORD-172, client=CLIENT-2, AAPL, BUY_LIMIT, vol=72.64, limit=156.74, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:57 | Order[ORD-173, client=CLIENT-3, TSLA, SELL_LIMIT, vol=30.44, limit=833.00, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:57 | Order[ORD-174, client=CLIENT-4, AMZN, SELL_LIMIT, vol=63.82, limit=3031.51, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:57 | Order[ORD-175, client=CLIENT-5, AAPL, SELL_LIMIT, vol=26.90, limit=142.48, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:58 | Order[ORD-176, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=36.52, limit=3017.00, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:58 | Order[ORD-177, client=CLIENT-2, AMZN, SELL_LIMIT, vol=40.02, limit=3274.64, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:58 | Order[ORD-178, client=CLIENT-3, AMZN, BUY_LIMIT, vol=64.45, limit=3508.12, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:58 | Order[ORD-179, client=CLIENT-4, AMZN, BUY_LIMIT, vol=82.63, limit=3545.83, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:58 | Order[ORD-180, client=CLIENT-5, AMZN, SELL_LIMIT, vol=35.08, limit=3056.91, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:59 | Order[ORD-181, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=47.33, limit=3027.69, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:59 | Order[ORD-182, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=12.45, limit=2509.14, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:59 | Order[ORD-183, client=CLIENT-3, MSFT, SELL_LIMIT, vol=51.24, limit=316.57, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:59 | Order[ORD-184, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=56.71, limit=3014.07, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:09:59 | Order[ORD-185, client=CLIENT-5, AAPL, SELL_LIMIT, vol=34.80, limit=147.35, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:00 | Order[ORD-186, client=CLIENT-1, MSFT, BUY_LIMIT, vol=56.06, limit=357.70, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:00 | Order[ORD-187, client=CLIENT-2, TSLA, BUY_LIMIT, vol=43.02, limit=931.99, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:00 | Order[ORD-188, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=52.90, limit=2519.56, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:00 | Order[ORD-189, client=CLIENT-4, MSFT, SELL_LIMIT, vol=73.51, limit=316.62, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:00 | Order[ORD-190, client=CLIENT-5, AAPL, BUY_LIMIT, vol=82.89, limit=153.10, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:01 | Order[ORD-191, client=CLIENT-1, TSLA, SELL_LIMIT, vol=31.43, limit=839.73, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:01 | Order[ORD-192, client=CLIENT-2, TSLA, SELL_LIMIT, vol=40.00, limit=816.30, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:01 | Order[ORD-193, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=74.32, limit=3043.77, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:01 | Order[ORD-194, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=87.64, limit=2871.78, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:01 | Order[ORD-195, client=CLIENT-5, MSFT, BUY_LIMIT, vol=19.93, limit=372.73, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:02 | Order[ORD-196, client=CLIENT-1, MSFT, SELL_LIMIT, vol=87.24, limit=306.25, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:02 | Order[ORD-197, client=CLIENT-3, AAPL, SELL_LIMIT, vol=67.73, limit=140.13, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:02 | Order[ORD-198, client=CLIENT-2, TSLA, SELL_LIMIT, vol=93.52, limit=837.64, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:02 | Order[ORD-199, client=CLIENT-4, AAPL, BUY_LIMIT, vol=71.39, limit=167.35, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:02 | Order[ORD-200, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=59.73, limit=2731.23, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:03 | Order[ORD-201, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=40.69, limit=2858.66, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:03 | Order[ORD-202, client=CLIENT-3, AMZN, BUY_LIMIT, vol=57.91, limit=3384.45, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:03 | Order[ORD-203, client=CLIENT-2, MSFT, BUY_LIMIT, vol=53.54, limit=353.60, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:03 | Order[ORD-204, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=27.24, limit=2939.88, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:03 | Order[ORD-205, client=CLIENT-4, AMZN, SELL_LIMIT, vol=72.05, limit=3035.19, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:04 | Order[ORD-206, client=CLIENT-1, AAPL, SELL_LIMIT, vol=91.85, limit=137.18, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:04 | Order[ORD-207, client=CLIENT-2, TSLA, SELL_LIMIT, vol=45.87, limit=839.14, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:04 | Order[ORD-208, client=CLIENT-3, MSFT, SELL_LIMIT, vol=34.35, limit=334.85, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:04 | Order[ORD-209, client=CLIENT-4, MSFT, BUY_LIMIT, vol=90.24, limit=361.76, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:04 | Order[ORD-210, client=CLIENT-5, MSFT, SELL_LIMIT, vol=15.82, limit=326.63, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:05 | Order[ORD-211, client=CLIENT-1, AAPL, SELL_LIMIT, vol=35.89, limit=143.82, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:05 | Order[ORD-212, client=CLIENT-2, MSFT, SELL_LIMIT, vol=86.11, limit=317.34, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:05 | Order[ORD-213, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=64.14, limit=2650.19, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:05 | Order[ORD-214, client=CLIENT-4, TSLA, BUY_LIMIT, vol=78.14, limit=947.08, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:05 | Order[ORD-215, client=CLIENT-5, AMZN, BUY_LIMIT, vol=67.16, limit=3388.40, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:06 | Order[ORD-216, client=CLIENT-1, MSFT, SELL_LIMIT, vol=10.00, limit=309.30, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:06 | Order[ORD-217, client=CLIENT-2, AAPL, SELL_LIMIT, vol=13.95, limit=137.84, status=PENDING] - ACCEPTAT
+2026-02-01 23:10:06 | Order[ORD-218, client=CLIENT-3, AAPL, BUY_LIMIT, vol=58.69, limit=164.68, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:06 | Order[ORD-219, client=CLIENT-5, TSLA, BUY_LIMIT, vol=31.94, limit=885.98, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:06 | Order[ORD-220, client=CLIENT-4, MSFT, SELL_LIMIT, vol=59.69, limit=328.91, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:07 | Order[ORD-221, client=CLIENT-1, AAPL, BUY_LIMIT, vol=74.19, limit=159.74, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:07 | Order[ORD-222, client=CLIENT-2, AMZN, BUY_LIMIT, vol=47.26, limit=3367.16, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:07 | Order[ORD-223, client=CLIENT-3, TSLA, BUY_LIMIT, vol=97.67, limit=962.72, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:07 | Order[ORD-224, client=CLIENT-5, AMZN, SELL_LIMIT, vol=22.92, limit=3070.78, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:07 | Order[ORD-225, client=CLIENT-4, TSLA, BUY_LIMIT, vol=76.36, limit=951.72, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:08 | Order[ORD-226, client=CLIENT-1, AAPL, SELL_LIMIT, vol=40.75, limit=141.25, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:08 | Order[ORD-227, client=CLIENT-2, MSFT, SELL_LIMIT, vol=73.15, limit=340.50, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:08 | Order[ORD-228, client=CLIENT-3, MSFT, BUY_LIMIT, vol=83.21, limit=344.79, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:08 | Order[ORD-229, client=CLIENT-4, AAPL, SELL_LIMIT, vol=79.55, limit=140.95, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:08 | Order[ORD-230, client=CLIENT-5, AAPL, SELL_LIMIT, vol=94.76, limit=145.20, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:09 | Order[ORD-231, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=59.18, limit=2509.07, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:09 | Order[ORD-232, client=CLIENT-2, MSFT, SELL_LIMIT, vol=40.40, limit=310.79, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:09 | Order[ORD-233, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=31.84, limit=2600.61, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:09 | Order[ORD-234, client=CLIENT-4, AMZN, SELL_LIMIT, vol=41.30, limit=2986.05, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:09 | Order[ORD-235, client=CLIENT-5, AAPL, BUY_LIMIT, vol=23.36, limit=156.12, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:10 | Order[ORD-236, client=CLIENT-1, MSFT, SELL_LIMIT, vol=29.55, limit=325.07, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:10 | Order[ORD-237, client=CLIENT-2, TSLA, SELL_LIMIT, vol=16.19, limit=863.53, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:10 | Order[ORD-238, client=CLIENT-3, TSLA, BUY_LIMIT, vol=66.14, limit=894.91, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:10 | Order[ORD-239, client=CLIENT-5, MSFT, BUY_LIMIT, vol=62.85, limit=360.00, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:10 | Order[ORD-240, client=CLIENT-4, TSLA, SELL_LIMIT, vol=83.86, limit=846.57, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:11 | Order[ORD-241, client=CLIENT-1, MSFT, BUY_LIMIT, vol=65.57, limit=370.24, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:11 | Order[ORD-242, client=CLIENT-2, TSLA, SELL_LIMIT, vol=25.60, limit=874.39, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:11 | Order[ORD-243, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=10.84, limit=2898.93, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:11 | Order[ORD-244, client=CLIENT-3, AMZN, SELL_LIMIT, vol=30.85, limit=3019.15, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:11 | Order[ORD-245, client=CLIENT-5, TSLA, BUY_LIMIT, vol=12.25, limit=966.59, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:12 | Order[ORD-246, client=CLIENT-1, MSFT, BUY_LIMIT, vol=23.11, limit=347.95, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:12 | Order[ORD-247, client=CLIENT-2, TSLA, SELL_LIMIT, vol=64.37, limit=815.37, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:12 | Order[ORD-248, client=CLIENT-3, AAPL, SELL_LIMIT, vol=76.74, limit=139.90, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:12 | Order[ORD-249, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=68.26, limit=2789.10, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:12 | Order[ORD-250, client=CLIENT-5, AMZN, SELL_LIMIT, vol=51.25, limit=3301.09, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:13 | Order[ORD-251, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=50.64, limit=2703.69, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:13 | Order[ORD-252, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=54.17, limit=2975.31, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:13 | Order[ORD-253, client=CLIENT-3, TSLA, BUY_LIMIT, vol=37.97, limit=963.14, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:13 | Order[ORD-254, client=CLIENT-5, TSLA, BUY_LIMIT, vol=29.83, limit=966.89, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:13 | Order[ORD-255, client=CLIENT-4, AMZN, SELL_LIMIT, vol=75.79, limit=3010.28, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:14 | Order[ORD-256, client=CLIENT-1, AMZN, BUY_LIMIT, vol=92.84, limit=3571.85, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:14 | Order[ORD-257, client=CLIENT-2, AAPL, BUY_LIMIT, vol=39.08, limit=155.23, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:14 | Order[ORD-258, client=CLIENT-3, MSFT, BUY_LIMIT, vol=31.72, limit=336.03, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:14 | Order[ORD-259, client=CLIENT-4, TSLA, BUY_LIMIT, vol=59.80, limit=950.80, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:14 | Order[ORD-260, client=CLIENT-5, MSFT, SELL_LIMIT, vol=44.98, limit=315.91, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:15 | Order[ORD-261, client=CLIENT-1, AAPL, BUY_LIMIT, vol=23.96, limit=156.70, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:15 | Order[ORD-262, client=CLIENT-2, AAPL, BUY_LIMIT, vol=29.13, limit=159.84, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:15 | Order[ORD-263, client=CLIENT-3, AAPL, BUY_LIMIT, vol=57.95, limit=155.11, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:15 | Order[ORD-264, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=50.19, limit=2549.58, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:15 | Order[ORD-265, client=CLIENT-5, AMZN, SELL_LIMIT, vol=14.61, limit=3307.64, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:16 | Order[ORD-266, client=CLIENT-1, MSFT, SELL_LIMIT, vol=64.30, limit=325.36, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:16 | Order[ORD-267, client=CLIENT-2, AAPL, BUY_LIMIT, vol=76.55, limit=151.55, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:16 | Order[ORD-268, client=CLIENT-3, MSFT, SELL_LIMIT, vol=57.39, limit=311.87, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:16 | Order[ORD-269, client=CLIENT-4, AMZN, BUY_LIMIT, vol=85.23, limit=3383.34, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:16 | Order[ORD-270, client=CLIENT-5, MSFT, SELL_LIMIT, vol=92.67, limit=307.45, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:17 | Order[ORD-271, client=CLIENT-1, AAPL, BUY_LIMIT, vol=18.92, limit=160.18, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:17 | Order[ORD-272, client=CLIENT-2, TSLA, SELL_LIMIT, vol=64.47, limit=878.26, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:17 | Order[ORD-273, client=CLIENT-3, AMZN, SELL_LIMIT, vol=63.66, limit=3115.78, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:17 | Order[ORD-274, client=CLIENT-4, MSFT, BUY_LIMIT, vol=14.18, limit=349.16, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:17 | Order[ORD-275, client=CLIENT-5, AMZN, BUY_LIMIT, vol=21.76, limit=3512.80, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:18 | Order[ORD-276, client=CLIENT-1, MSFT, SELL_LIMIT, vol=65.97, limit=321.74, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:18 | Order[ORD-277, client=CLIENT-2, TSLA, BUY_LIMIT, vol=55.44, limit=958.16, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:18 | Order[ORD-278, client=CLIENT-4, TSLA, SELL_LIMIT, vol=62.87, limit=895.45, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:18 | Order[ORD-279, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=21.74, limit=2975.24, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:18 | Order[ORD-280, client=CLIENT-5, AAPL, SELL_LIMIT, vol=91.35, limit=137.54, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:19 | Order[ORD-281, client=CLIENT-1, MSFT, BUY_LIMIT, vol=58.56, limit=345.86, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:19 | Order[ORD-282, client=CLIENT-2, AAPL, BUY_LIMIT, vol=16.70, limit=154.06, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:19 | Order[ORD-283, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=23.04, limit=2768.60, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:19 | Order[ORD-284, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=77.61, limit=2584.00, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:19 | Order[ORD-285, client=CLIENT-5, AAPL, SELL_LIMIT, vol=12.37, limit=134.91, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:20 | Order[ORD-286, client=CLIENT-1, AAPL, BUY_LIMIT, vol=75.92, limit=155.16, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:20 | Order[ORD-287, client=CLIENT-2, AAPL, BUY_LIMIT, vol=69.60, limit=146.26, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:20 | Order[ORD-288, client=CLIENT-3, AMZN, BUY_LIMIT, vol=87.67, limit=3643.70, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:20 | Order[ORD-289, client=CLIENT-4, TSLA, SELL_LIMIT, vol=42.66, limit=854.17, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:20 | Order[ORD-290, client=CLIENT-5, MSFT, BUY_LIMIT, vol=54.91, limit=342.46, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:21 | Order[ORD-291, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=82.94, limit=2580.48, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:21 | Order[ORD-292, client=CLIENT-2, TSLA, SELL_LIMIT, vol=56.94, limit=832.43, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:21 | Order[ORD-293, client=CLIENT-3, AAPL, SELL_LIMIT, vol=27.70, limit=131.41, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:21 | Order[ORD-294, client=CLIENT-5, TSLA, SELL_LIMIT, vol=98.25, limit=842.01, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:21 | Order[ORD-295, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=25.68, limit=3034.92, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:22 | Order[ORD-296, client=CLIENT-1, AAPL, BUY_LIMIT, vol=63.11, limit=151.63, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:22 | Order[ORD-297, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=14.10, limit=2533.12, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:22 | Order[ORD-298, client=CLIENT-4, AAPL, SELL_LIMIT, vol=76.92, limit=143.07, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:22 | Order[ORD-299, client=CLIENT-3, TSLA, BUY_LIMIT, vol=25.28, limit=922.96, status=REJECTED] - REJECTED (lichiditate insuficientă)
+2026-02-01 23:10:22 | Order[ORD-300, client=CLIENT-5, AAPL, BUY_LIMIT, vol=11.37, limit=148.08, status=REJECTED] - REJECTED (lichiditate insuficientă)

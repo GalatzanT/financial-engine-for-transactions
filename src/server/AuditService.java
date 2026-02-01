@@ -168,13 +168,11 @@ public class AuditService {
         for (Map.Entry<String, Double> entry : commissions.entrySet()) {
             double commission = entry.getValue();
             totalCommission += commission;
-            System.out.printf("  %s: %.2f
-", entry.getKey(), commission);
+            System.out.printf("  %s: %.2f\n", entry.getKey(), commission);
         }
-        System.out.printf("Total Comisioane: %.2f
-", totalCommission);
+        System.out.printf("Total Comisioane: %.2f\n", totalCommission);
         
-        System.out.println("\nP&L per Instrument (Incăsări - Plăți):");
+        System.out.println("\nP&L per Instrument (Încasări - Plăți):");
         Map<String, Double> pnl = engine.getPnLPerInstrument();
         double totalPnL = 0.0;
         
@@ -182,15 +180,12 @@ public class AuditService {
             double value = entry.getValue();
             totalPnL += value;
             String status = value >= 0 ? "Profit" : "Pierdere";
-            System.out.printf("  %s: %.2f (%s)
-", entry.getKey(), value, status);
+            System.out.printf("  %s: %.2f (%s)\n", entry.getKey(), value, status);
         }
-        System.out.printf("Total P&L: %.2f
-", totalPnL);
+        System.out.printf("Total P&L: %.2f\n", totalPnL);
         
         double netProfit = totalCommission + totalPnL;
-        System.out.printf("\n✅ PROFIT NET: %.2f (Comisioane: %.2f + P&L: %.2f)
-", 
+        System.out.printf("\n✅ PROFIT NET: %.2f (Comisioane: %.2f + P&L: %.2f)\n", 
                          netProfit, totalCommission, totalPnL);
     }
     
