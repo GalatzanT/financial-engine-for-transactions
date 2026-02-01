@@ -134,22 +134,22 @@ public class TradingBot implements Runnable {
             if (orderType == OrderType.BUY_LIMIT) {
                 if (isConservative) {
                     // BUY conservator: vrei să cumperi IEFTIN (sub preț curent)
-                    // Limită 20-30% SUB preț - va aștepta ca prețul să scadă
+                    // Limită 20-30% SUB preț - va aștepta ca prețul să scadă (VA EXPIRA)
                     limitPrice = currentPrice * (0.70 + random.nextDouble() * 0.10); // 70-80% din preț
                 } else {
-                    // BUY agresiv: accepți să plătești mai mult
-                    // Limită 0-5% PESTE preț - se execută imediat
-                    limitPrice = currentPrice * (1.0 + random.nextDouble() * 0.05);
+                    // BUY agresiv: bot face GREȘEALĂ - cumpără SCUMP
+                    // Limită 5-15% PESTE preț - se execută imediat dar pierde bani
+                    limitPrice = currentPrice * (1.05 + random.nextDouble() * 0.10); // 105-115% din preț
                 }
             } else {
                 if (isConservative) {
                     // SELL conservator: vrei să vinzi SCUMP (peste preț curent)
-                    // Limită 20-30% PESTE preț - va aștepta ca prețul să crească
+                    // Limită 20-30% PESTE preț - va aștepta ca prețul să crească (VA EXPIRA)
                     limitPrice = currentPrice * (1.20 + random.nextDouble() * 0.10); // 120-130% din preț
                 } else {
-                    // SELL agresiv: accepți să primești mai puțin
-                    // Limită 0-5% SUB preț - se execută imediat
-                    limitPrice = currentPrice * (0.95 + random.nextDouble() * 0.05);
+                    // SELL agresiv: bot face GREȘEALĂ - vinde IEFTIN
+                    // Limită 10-15% SUB preț - se execută imediat dar pierde bani
+                    limitPrice = currentPrice * (0.85 + random.nextDouble() * 0.10); // 85-95% din preț
                 }
             }
             
