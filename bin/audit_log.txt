@@ -1,13 +1,13 @@
 LOG AUDIT - Financial Engine
 ================================================================================
 
-=== AUDIT 2026-02-01 23:09:22 ===
+=== AUDIT 2026-02-01 23:20:34 ===
 PREȚURI CURENTE:
-  MSFT: 328.06
-  GOOGL: 2802.93
-  AAPL: 152.69
-  TSLA: 909.03
-  AMZN: 3297.86
+  MSFT: 329.99
+  GOOGL: 2802.18
+  AAPL: 151.64
+  TSLA: 894.72
+  AMZN: 3297.57
 
 LICHIDITATE DISPONIBILĂ:
   MSFT: 1200.00 / 1200.00
@@ -36,1069 +36,1420 @@ PROFIT NET: 0.00
 ORDINE PENDING: 0
 
 
-=== AUDIT 2026-02-01 23:09:24 ===
+=== AUDIT 2026-02-01 23:20:36 ===
 PREȚURI CURENTE:
-  MSFT: 336.21
-  GOOGL: 2800.23
-  AAPL: 149.87
-  TSLA: 908.40
-  AMZN: 3300.46
+  MSFT: 327.26
+  GOOGL: 2797.88
+  AAPL: 154.77
+  TSLA: 897.21
+  AMZN: 3299.38
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 1124.31 / 1200.00
-  GOOGL: 774.18 / 800.00
-  AAPL: 1000.00 / 1000.00
-  TSLA: 394.81 / 600.00
+  MSFT: 1127.76 / 1200.00
+  GOOGL: 736.63 / 800.00
+  AAPL: 987.77 / 1000.00
+  TSLA: 552.53 / 600.00
   AMZN: 900.00 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 127.24
-  GOOGL: 361.51
-  AAPL: 0.00
-  TSLA: 931.97
+  MSFT: 0.00
+  GOOGL: 0.00
+  AAPL: 9.46
+  TSLA: 0.00
   AMZN: 0.00
-TOTAL COMISIOANE: 1420.72
+TOTAL COMISIOANE: 9.46
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 25448.10 (Profit)
-  GOOGL: -72301.82 (Pierdere)
-  AAPL: 0.00 (Profit)
-  TSLA: 134343.32 (Profit)
+  MSFT: 0.00 (Profit)
+  GOOGL: 0.00 (Profit)
+  AAPL: 1892.83 (Profit)
+  TSLA: 0.00 (Profit)
   AMZN: 0.00 (Profit)
-TOTAL P&L: 87489.59
-PROFIT NET: 88910.32
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:09:26 ===
-PREȚURI CURENTE:
-  MSFT: 337.01
-  GOOGL: 2798.26
-  AAPL: 146.36
-  TSLA: 923.98
-  AMZN: 3299.30
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 1022.22 / 1200.00
-  GOOGL: 774.18 / 800.00
-  AAPL: 1000.00 / 1000.00
-  TSLA: 132.52 / 600.00
-  AMZN: 733.08 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 299.27
-  GOOGL: 361.51
-  AAPL: 0.00
-  TSLA: 1487.61
-  AMZN: 2753.59
-TOTAL COMISIOANE: 4901.98
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -8957.03 (Pierdere)
-  GOOGL: -72301.82 (Pierdere)
-  AAPL: 0.00 (Profit)
-  TSLA: 23215.79 (Profit)
-  AMZN: 91852.38 (Profit)
-TOTAL P&L: 33809.32
-PROFIT NET: 38711.29
+TOTAL P&L: 1892.83
+PROFIT NET: 1902.29
 
 ORDINE PENDING: 4
-  Order[ORD-8, client=CLIENT-3, TSLA, BUY_LIMIT, vol=28.09, limit=923.30, status=PENDING]
-  Order[ORD-9, client=CLIENT-4, TSLA, BUY_LIMIT, vol=44.32, limit=917.81, status=PENDING]
-  Order[ORD-11, client=CLIENT-1, TSLA, BUY_LIMIT, vol=32.82, limit=915.23, status=PENDING]
-  Order[ORD-14, client=CLIENT-4, TSLA, BUY_LIMIT, vol=36.79, limit=910.90, status=PENDING]
+  Order[ORD-2, client=CLIENT-2, TSLA, BUY_LIMIT, vol=14.29, limit=658.01, status=PENDING]
+  Order[ORD-3, client=CLIENT-3, MSFT, SELL_LIMIT, vol=72.24, limit=402.68, status=PENDING]
+  Order[ORD-4, client=CLIENT-4, TSLA, SELL_LIMIT, vol=33.18, limit=1138.55, status=PENDING]
+  Order[ORD-5, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=63.37, limit=3522.05, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:28 ===
+=== AUDIT 2026-02-01 23:20:38 ===
 PREȚURI CURENTE:
-  MSFT: 335.85
-  GOOGL: 2791.15
-  AAPL: 142.65
-  TSLA: 916.10
-  AMZN: 3298.63
+  MSFT: 326.16
+  GOOGL: 2796.59
+  AAPL: 153.70
+  TSLA: 888.99
+  AMZN: 3296.21
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 978.45 / 1200.00
-  GOOGL: 564.46 / 800.00
-  AAPL: 924.20 / 1000.00
-  TSLA: 47.68 / 600.00
-  AMZN: 649.40 / 900.00
+  MSFT: 1054.60 / 1200.00
+  GOOGL: 553.95 / 800.00
+  AAPL: 925.23 / 1000.00
+  TSLA: 399.90 / 600.00
+  AMZN: 839.34 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 372.77
-  GOOGL: 3288.31
-  AAPL: 54.06
-  TSLA: 2207.89
-  AMZN: 4133.74
-TOTAL COMISIOANE: 10056.77
+  MSFT: 119.31
+  GOOGL: 793.53
+  AAPL: 37.78
+  TSLA: 0.00
+  AMZN: 0.00
+TOTAL COMISIOANE: 950.62
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 5743.21 (Profit)
-  GOOGL: 513057.70 (Profit)
-  AAPL: -10812.60 (Pierdere)
-  TSLA: 11828.67 (Profit)
-  AMZN: 367881.70 (Profit)
-TOTAL P&L: 887698.68
-PROFIT NET: 897755.45
+  MSFT: -23861.80 (Pierdere)
+  GOOGL: -158706.49 (Pierdere)
+  AAPL: -3770.87 (Pierdere)
+  TSLA: 0.00 (Profit)
+  AMZN: 0.00 (Profit)
+TOTAL P&L: -186339.17
+PROFIT NET: -185388.55
 
-ORDINE PENDING: 2
-  Order[ORD-11, client=CLIENT-1, TSLA, BUY_LIMIT, vol=32.82, limit=915.23, status=PENDING]
-  Order[ORD-14, client=CLIENT-4, TSLA, BUY_LIMIT, vol=36.79, limit=910.90, status=PENDING]
+ORDINE PENDING: 11
+  Order[ORD-2, client=CLIENT-2, TSLA, BUY_LIMIT, vol=14.29, limit=658.01, status=PENDING]
+  Order[ORD-3, client=CLIENT-3, MSFT, SELL_LIMIT, vol=72.24, limit=402.68, status=PENDING]
+  Order[ORD-4, client=CLIENT-4, TSLA, SELL_LIMIT, vol=33.18, limit=1138.55, status=PENDING]
+  Order[ORD-5, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=63.37, limit=3522.05, status=PENDING]
+  Order[ORD-6, client=CLIENT-1, AAPL, BUY_LIMIT, vol=25.69, limit=123.64, status=PENDING]
+  Order[ORD-7, client=CLIENT-2, AMZN, BUY_LIMIT, vol=60.66, limit=2574.18, status=PENDING]
+  Order[ORD-8, client=CLIENT-3, TSLA, SELL_LIMIT, vol=90.78, limit=891.57, status=PENDING]
+  Order[ORD-9, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=77.89, limit=2158.78, status=PENDING]
+  Order[ORD-11, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=16.49, limit=1999.87, status=PENDING]
+  Order[ORD-13, client=CLIENT-3, TSLA, SELL_LIMIT, vol=61.85, limit=893.81, status=PENDING]
+  Order[ORD-14, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=31.55, limit=3615.84, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:30 ===
+=== AUDIT 2026-02-01 23:20:40 ===
 PREȚURI CURENTE:
-  MSFT: 336.23
-  GOOGL: 2792.31
-  AAPL: 147.33
-  TSLA: 911.60
-  AMZN: 3301.15
+  MSFT: 328.91
+  GOOGL: 2793.34
+  AAPL: 149.29
+  TSLA: 888.97
+  AMZN: 3293.93
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 860.85 / 1200.00
-  GOOGL: 564.46 / 800.00
-  AAPL: 685.53 / 1000.00
-  TSLA: 19.86 / 600.00
-  AMZN: 623.29 / 900.00
+  MSFT: 990.65 / 1200.00
+  GOOGL: 485.50 / 800.00
+  AAPL: 723.25 / 1000.00
+  TSLA: 262.12 / 600.00
+  AMZN: 811.82 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 570.47
-  GOOGL: 3288.31
-  AAPL: 229.88
-  TSLA: 2484.29
-  AMZN: 4564.70
-TOTAL COMISIOANE: 11137.65
+  MSFT: 224.48
+  GOOGL: 1749.55
+  AAPL: 37.78
+  TSLA: 0.00
+  AMZN: 0.00
+TOTAL COMISIOANE: 2011.81
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 28727.71 (Profit)
-  GOOGL: 513057.70 (Profit)
-  AAPL: -45976.42 (Pierdere)
-  TSLA: 16386.69 (Profit)
-  AMZN: 384882.63 (Profit)
-TOTAL P&L: 897078.31
-PROFIT NET: 908215.96
+  MSFT: -44895.60 (Pierdere)
+  GOOGL: 32497.54 (Profit)
+  AAPL: -3770.87 (Pierdere)
+  TSLA: 0.00 (Profit)
+  AMZN: 0.00 (Profit)
+TOTAL P&L: -16168.93
+PROFIT NET: -14157.12
 
-ORDINE PENDING: 1
-  Order[ORD-14, client=CLIENT-4, TSLA, BUY_LIMIT, vol=36.79, limit=910.90, status=PENDING]
+ORDINE PENDING: 18
+  Order[ORD-2, client=CLIENT-2, TSLA, BUY_LIMIT, vol=14.29, limit=658.01, status=PENDING]
+  Order[ORD-3, client=CLIENT-3, MSFT, SELL_LIMIT, vol=72.24, limit=402.68, status=PENDING]
+  Order[ORD-4, client=CLIENT-4, TSLA, SELL_LIMIT, vol=33.18, limit=1138.55, status=PENDING]
+  Order[ORD-5, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=63.37, limit=3522.05, status=PENDING]
+  Order[ORD-6, client=CLIENT-1, AAPL, BUY_LIMIT, vol=25.69, limit=123.64, status=PENDING]
+  Order[ORD-7, client=CLIENT-2, AMZN, BUY_LIMIT, vol=60.66, limit=2574.18, status=PENDING]
+  Order[ORD-8, client=CLIENT-3, TSLA, SELL_LIMIT, vol=90.78, limit=891.57, status=PENDING]
+  Order[ORD-9, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=77.89, limit=2158.78, status=PENDING]
+  Order[ORD-11, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=16.49, limit=1999.87, status=PENDING]
+  Order[ORD-13, client=CLIENT-3, TSLA, SELL_LIMIT, vol=61.85, limit=893.81, status=PENDING]
+  Order[ORD-14, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=31.55, limit=3615.84, status=PENDING]
+  Order[ORD-18, client=CLIENT-3, TSLA, BUY_LIMIT, vol=96.18, limit=678.54, status=PENDING]
+  Order[ORD-19, client=CLIENT-4, AAPL, BUY_LIMIT, vol=14.54, limit=112.72, status=PENDING]
+  Order[ORD-20, client=CLIENT-5, TSLA, BUY_LIMIT, vol=41.60, limit=646.96, status=PENDING]
+  Order[ORD-21, client=CLIENT-1, AMZN, SELL_LIMIT, vol=27.52, limit=4021.78, status=PENDING]
+  Order[ORD-22, client=CLIENT-2, AAPL, BUY_LIMIT, vol=68.44, limit=116.61, status=PENDING]
+  Order[ORD-23, client=CLIENT-3, AAPL, BUY_LIMIT, vol=74.44, limit=120.67, status=PENDING]
+  Order[ORD-24, client=CLIENT-4, AAPL, SELL_LIMIT, vol=44.56, limit=149.39, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:32 ===
+=== AUDIT 2026-02-01 23:20:42 ===
 PREȚURI CURENTE:
-  MSFT: 336.81
-  GOOGL: 2796.94
-  AAPL: 146.21
-  TSLA: 906.60
-  AMZN: 3306.63
+  MSFT: 329.74
+  GOOGL: 2789.59
+  AAPL: 144.69
+  TSLA: 883.89
+  AMZN: 3294.41
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 643.42 / 1200.00
-  GOOGL: 338.53 / 800.00
-  AAPL: 618.55 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 546.72 / 900.00
+  MSFT: 898.10 / 1200.00
+  GOOGL: 390.66 / 800.00
+  AAPL: 547.57 / 1000.00
+  TSLA: 175.51 / 600.00
+  AMZN: 653.05 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 842.42
-  GOOGL: 3440.18
-  AAPL: 278.85
-  TSLA: 2705.10
-  AMZN: 5122.37
-TOTAL COMISIOANE: 12388.91
+  MSFT: 377.07
+  GOOGL: 1749.55
+  AAPL: 86.73
+  TSLA: 382.77
+  AMZN: 1210.86
+TOTAL COMISIOANE: 3806.98
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 31007.90 (Profit)
-  GOOGL: 543432.45 (Profit)
-  AAPL: -36183.20 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: 496415.12 (Profit)
-TOTAL P&L: 1073606.20
-PROFIT NET: 1085995.11
+  MSFT: -23604.03 (Pierdere)
+  GOOGL: 32497.54 (Profit)
+  AAPL: -4317.81 (Pierdere)
+  TSLA: -76553.78 (Pierdere)
+  AMZN: -242172.09 (Pierdere)
+TOTAL P&L: -314150.17
+PROFIT NET: -310343.19
+
+ORDINE PENDING: 22
+  Order[ORD-2, client=CLIENT-2, TSLA, BUY_LIMIT, vol=14.29, limit=658.01, status=PENDING]
+  Order[ORD-3, client=CLIENT-3, MSFT, SELL_LIMIT, vol=72.24, limit=402.68, status=PENDING]
+  Order[ORD-4, client=CLIENT-4, TSLA, SELL_LIMIT, vol=33.18, limit=1138.55, status=PENDING]
+  Order[ORD-5, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=63.37, limit=3522.05, status=PENDING]
+  Order[ORD-6, client=CLIENT-1, AAPL, BUY_LIMIT, vol=25.69, limit=123.64, status=PENDING]
+  Order[ORD-7, client=CLIENT-2, AMZN, BUY_LIMIT, vol=60.66, limit=2574.18, status=PENDING]
+  Order[ORD-8, client=CLIENT-3, TSLA, SELL_LIMIT, vol=90.78, limit=891.57, status=PENDING]
+  Order[ORD-9, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=77.89, limit=2158.78, status=PENDING]
+  Order[ORD-11, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=16.49, limit=1999.87, status=PENDING]
+  Order[ORD-13, client=CLIENT-3, TSLA, SELL_LIMIT, vol=61.85, limit=893.81, status=PENDING]
+  Order[ORD-14, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=31.55, limit=3615.84, status=PENDING]
+  Order[ORD-18, client=CLIENT-3, TSLA, BUY_LIMIT, vol=96.18, limit=678.54, status=PENDING]
+  Order[ORD-19, client=CLIENT-4, AAPL, BUY_LIMIT, vol=14.54, limit=112.72, status=PENDING]
+  Order[ORD-20, client=CLIENT-5, TSLA, BUY_LIMIT, vol=41.60, limit=646.96, status=PENDING]
+  Order[ORD-21, client=CLIENT-1, AMZN, SELL_LIMIT, vol=27.52, limit=4021.78, status=PENDING]
+  Order[ORD-22, client=CLIENT-2, AAPL, BUY_LIMIT, vol=68.44, limit=116.61, status=PENDING]
+  Order[ORD-23, client=CLIENT-3, AAPL, BUY_LIMIT, vol=74.44, limit=120.67, status=PENDING]
+  Order[ORD-24, client=CLIENT-4, AAPL, SELL_LIMIT, vol=44.56, limit=149.39, status=PENDING]
+  Order[ORD-27, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=94.84, limit=3598.77, status=PENDING]
+  Order[ORD-31, client=CLIENT-1, AAPL, SELL_LIMIT, vol=16.27, limit=145.13, status=PENDING]
+  Order[ORD-33, client=CLIENT-3, AMZN, BUY_LIMIT, vol=85.26, limit=2490.65, status=PENDING]
+  Order[ORD-34, client=CLIENT-4, AAPL, SELL_LIMIT, vol=91.75, limit=146.68, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:20:44 ===
+PREȚURI CURENTE:
+  MSFT: 332.52
+  GOOGL: 2798.49
+  AAPL: 146.85
+  TSLA: 895.27
+  AMZN: 3296.46
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 738.00 / 1200.00
+  GOOGL: 179.33 / 800.00
+  AAPL: 467.36 / 1000.00
+  TSLA: 175.51 / 600.00
+  AMZN: 522.81 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 576.21
+  GOOGL: 3673.10
+  AAPL: 224.94
+  TSLA: 1066.00
+  AMZN: 1210.86
+TOTAL COMISIOANE: 6751.10
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -63433.04 (Pierdere)
+  GOOGL: 268270.43 (Profit)
+  AAPL: -31958.84 (Pierdere)
+  TSLA: -213199.09 (Pierdere)
+  AMZN: -242172.09 (Pierdere)
+TOTAL P&L: -282492.64
+PROFIT NET: -275741.53
+
+ORDINE PENDING: 22
+  Order[ORD-2, client=CLIENT-2, TSLA, BUY_LIMIT, vol=14.29, limit=658.01, status=PENDING]
+  Order[ORD-3, client=CLIENT-3, MSFT, SELL_LIMIT, vol=72.24, limit=402.68, status=PENDING]
+  Order[ORD-4, client=CLIENT-4, TSLA, SELL_LIMIT, vol=33.18, limit=1138.55, status=PENDING]
+  Order[ORD-5, client=CLIENT-5, GOOGL, SELL_LIMIT, vol=63.37, limit=3522.05, status=PENDING]
+  Order[ORD-6, client=CLIENT-1, AAPL, BUY_LIMIT, vol=25.69, limit=123.64, status=PENDING]
+  Order[ORD-7, client=CLIENT-2, AMZN, BUY_LIMIT, vol=60.66, limit=2574.18, status=PENDING]
+  Order[ORD-9, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=77.89, limit=2158.78, status=PENDING]
+  Order[ORD-11, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=16.49, limit=1999.87, status=PENDING]
+  Order[ORD-14, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=31.55, limit=3615.84, status=PENDING]
+  Order[ORD-18, client=CLIENT-3, TSLA, BUY_LIMIT, vol=96.18, limit=678.54, status=PENDING]
+  Order[ORD-19, client=CLIENT-4, AAPL, BUY_LIMIT, vol=14.54, limit=112.72, status=PENDING]
+  Order[ORD-20, client=CLIENT-5, TSLA, BUY_LIMIT, vol=41.60, limit=646.96, status=PENDING]
+  Order[ORD-21, client=CLIENT-1, AMZN, SELL_LIMIT, vol=27.52, limit=4021.78, status=PENDING]
+  Order[ORD-22, client=CLIENT-2, AAPL, BUY_LIMIT, vol=68.44, limit=116.61, status=PENDING]
+  Order[ORD-23, client=CLIENT-3, AAPL, BUY_LIMIT, vol=74.44, limit=120.67, status=PENDING]
+  Order[ORD-24, client=CLIENT-4, AAPL, SELL_LIMIT, vol=44.56, limit=149.39, status=PENDING]
+  Order[ORD-27, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=94.84, limit=3598.77, status=PENDING]
+  Order[ORD-33, client=CLIENT-3, AMZN, BUY_LIMIT, vol=85.26, limit=2490.65, status=PENDING]
+  Order[ORD-37, client=CLIENT-2, AMZN, BUY_LIMIT, vol=53.15, limit=2526.25, status=PENDING]
+  Order[ORD-38, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=73.86, limit=2160.38, status=PENDING]
+  Order[ORD-43, client=CLIENT-3, MSFT, BUY_LIMIT, vol=40.32, limit=251.64, status=PENDING]
+  Order[ORD-44, client=CLIENT-4, AMZN, SELL_LIMIT, vol=77.09, limit=4033.74, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:20:46 ===
+PREȚURI CURENTE:
+  MSFT: 333.03
+  GOOGL: 2804.18
+  AAPL: 142.92
+  TSLA: 886.04
+  AMZN: 3301.41
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 771.43 / 1200.00
+  GOOGL: 197.46 / 800.00
+  AAPL: 414.98 / 1000.00
+  TSLA: 62.05 / 600.00
+  AMZN: 263.88 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 640.84
+  GOOGL: 3673.10
+  AAPL: 262.37
+  TSLA: 1325.52
+  AMZN: 4726.21
+TOTAL COMISIOANE: 10628.02
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -76357.90 (Pierdere)
+  GOOGL: 268270.43 (Profit)
+  AAPL: -24472.75 (Pierdere)
+  TSLA: -265103.28 (Pierdere)
+  AMZN: 268688.68 (Profit)
+TOTAL P&L: 171025.18
+PROFIT NET: 181653.21
+
+ORDINE PENDING: 22
+  Order[ORD-6, client=CLIENT-1, AAPL, BUY_LIMIT, vol=25.69, limit=123.64, status=PENDING]
+  Order[ORD-7, client=CLIENT-2, AMZN, BUY_LIMIT, vol=60.66, limit=2574.18, status=PENDING]
+  Order[ORD-9, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=77.89, limit=2158.78, status=PENDING]
+  Order[ORD-11, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=16.49, limit=1999.87, status=PENDING]
+  Order[ORD-14, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=31.55, limit=3615.84, status=PENDING]
+  Order[ORD-18, client=CLIENT-3, TSLA, BUY_LIMIT, vol=96.18, limit=678.54, status=PENDING]
+  Order[ORD-19, client=CLIENT-4, AAPL, BUY_LIMIT, vol=14.54, limit=112.72, status=PENDING]
+  Order[ORD-20, client=CLIENT-5, TSLA, BUY_LIMIT, vol=41.60, limit=646.96, status=PENDING]
+  Order[ORD-21, client=CLIENT-1, AMZN, SELL_LIMIT, vol=27.52, limit=4021.78, status=PENDING]
+  Order[ORD-22, client=CLIENT-2, AAPL, BUY_LIMIT, vol=68.44, limit=116.61, status=PENDING]
+  Order[ORD-23, client=CLIENT-3, AAPL, BUY_LIMIT, vol=74.44, limit=120.67, status=PENDING]
+  Order[ORD-24, client=CLIENT-4, AAPL, SELL_LIMIT, vol=44.56, limit=149.39, status=PENDING]
+  Order[ORD-27, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=94.84, limit=3598.77, status=PENDING]
+  Order[ORD-33, client=CLIENT-3, AMZN, BUY_LIMIT, vol=85.26, limit=2490.65, status=PENDING]
+  Order[ORD-37, client=CLIENT-2, AMZN, BUY_LIMIT, vol=53.15, limit=2526.25, status=PENDING]
+  Order[ORD-38, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=73.86, limit=2160.38, status=PENDING]
+  Order[ORD-43, client=CLIENT-3, MSFT, BUY_LIMIT, vol=40.32, limit=251.64, status=PENDING]
+  Order[ORD-44, client=CLIENT-4, AMZN, SELL_LIMIT, vol=77.09, limit=4033.74, status=PENDING]
+  Order[ORD-46, client=CLIENT-1, TSLA, BUY_LIMIT, vol=57.39, limit=674.19, status=PENDING]
+  Order[ORD-48, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=45.24, limit=2209.17, status=PENDING]
+  Order[ORD-51, client=CLIENT-1, TSLA, SELL_LIMIT, vol=44.96, limit=1152.95, status=PENDING]
+  Order[ORD-52, client=CLIENT-2, AMZN, SELL_LIMIT, vol=45.97, limit=4278.65, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:20:48 ===
+PREȚURI CURENTE:
+  MSFT: 334.43
+  GOOGL: 2809.43
+  AAPL: 143.76
+  TSLA: 878.06
+  AMZN: 3306.39
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 626.19 / 1200.00
+  GOOGL: 163.83 / 800.00
+  AAPL: 308.44 / 1000.00
+  TSLA: 62.05 / 600.00
+  AMZN: 324.54 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 640.84
+  GOOGL: 3954.18
+  AAPL: 288.28
+  TSLA: 1325.52
+  AMZN: 4726.21
+TOTAL COMISIOANE: 10935.02
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -76357.90 (Pierdere)
+  GOOGL: 324487.09 (Profit)
+  AAPL: -29655.26 (Pierdere)
+  TSLA: -265103.28 (Pierdere)
+  AMZN: 268688.68 (Profit)
+TOTAL P&L: 222059.33
+PROFIT NET: 232994.35
+
+ORDINE PENDING: 24
+  Order[ORD-18, client=CLIENT-3, TSLA, BUY_LIMIT, vol=96.18, limit=678.54, status=PENDING]
+  Order[ORD-19, client=CLIENT-4, AAPL, BUY_LIMIT, vol=14.54, limit=112.72, status=PENDING]
+  Order[ORD-20, client=CLIENT-5, TSLA, BUY_LIMIT, vol=41.60, limit=646.96, status=PENDING]
+  Order[ORD-21, client=CLIENT-1, AMZN, SELL_LIMIT, vol=27.52, limit=4021.78, status=PENDING]
+  Order[ORD-22, client=CLIENT-2, AAPL, BUY_LIMIT, vol=68.44, limit=116.61, status=PENDING]
+  Order[ORD-23, client=CLIENT-3, AAPL, BUY_LIMIT, vol=74.44, limit=120.67, status=PENDING]
+  Order[ORD-24, client=CLIENT-4, AAPL, SELL_LIMIT, vol=44.56, limit=149.39, status=PENDING]
+  Order[ORD-27, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=94.84, limit=3598.77, status=PENDING]
+  Order[ORD-33, client=CLIENT-3, AMZN, BUY_LIMIT, vol=85.26, limit=2490.65, status=PENDING]
+  Order[ORD-37, client=CLIENT-2, AMZN, BUY_LIMIT, vol=53.15, limit=2526.25, status=PENDING]
+  Order[ORD-38, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=73.86, limit=2160.38, status=PENDING]
+  Order[ORD-43, client=CLIENT-3, MSFT, BUY_LIMIT, vol=40.32, limit=251.64, status=PENDING]
+  Order[ORD-44, client=CLIENT-4, AMZN, SELL_LIMIT, vol=77.09, limit=4033.74, status=PENDING]
+  Order[ORD-46, client=CLIENT-1, TSLA, BUY_LIMIT, vol=57.39, limit=674.19, status=PENDING]
+  Order[ORD-48, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=45.24, limit=2209.17, status=PENDING]
+  Order[ORD-51, client=CLIENT-1, TSLA, SELL_LIMIT, vol=44.96, limit=1152.95, status=PENDING]
+  Order[ORD-52, client=CLIENT-2, AMZN, SELL_LIMIT, vol=45.97, limit=4278.65, status=PENDING]
+  Order[ORD-56, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=64.34, limit=2218.59, status=PENDING]
+  Order[ORD-57, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=34.85, limit=2045.31, status=PENDING]
+  Order[ORD-58, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=40.36, limit=2130.88, status=PENDING]
+  Order[ORD-59, client=CLIENT-4, MSFT, SELL_LIMIT, vol=62.29, limit=426.86, status=PENDING]
+  Order[ORD-62, client=CLIENT-2, MSFT, BUY_LIMIT, vol=82.95, limit=244.52, status=PENDING]
+  Order[ORD-63, client=CLIENT-3, AAPL, SELL_LIMIT, vol=38.91, limit=184.40, status=PENDING]
+  Order[ORD-64, client=CLIENT-4, AAPL, BUY_LIMIT, vol=57.27, limit=113.24, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:20:50 ===
+PREȚURI CURENTE:
+  MSFT: 334.09
+  GOOGL: 2810.16
+  AAPL: 146.48
+  TSLA: 885.09
+  AMZN: 3308.07
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 626.19 / 1200.00
+  GOOGL: 74.47 / 800.00
+  AAPL: 345.13 / 1000.00
+  TSLA: 199.83 / 600.00
+  AMZN: 138.26 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 640.84
+  GOOGL: 4633.25
+  AAPL: 379.11
+  TSLA: 1325.52
+  AMZN: 7179.47
+TOTAL COMISIOANE: 14158.19
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -76357.90 (Pierdere)
+  GOOGL: 188672.20 (Profit)
+  AAPL: -47822.14 (Pierdere)
+  TSLA: -265103.28 (Pierdere)
+  AMZN: 336040.95 (Profit)
+TOTAL P&L: 135429.83
+PROFIT NET: 149588.02
+
+ORDINE PENDING: 20
+  Order[ORD-27, client=CLIENT-2, GOOGL, SELL_LIMIT, vol=94.84, limit=3598.77, status=PENDING]
+  Order[ORD-33, client=CLIENT-3, AMZN, BUY_LIMIT, vol=85.26, limit=2490.65, status=PENDING]
+  Order[ORD-37, client=CLIENT-2, AMZN, BUY_LIMIT, vol=53.15, limit=2526.25, status=PENDING]
+  Order[ORD-38, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=73.86, limit=2160.38, status=PENDING]
+  Order[ORD-43, client=CLIENT-3, MSFT, BUY_LIMIT, vol=40.32, limit=251.64, status=PENDING]
+  Order[ORD-44, client=CLIENT-4, AMZN, SELL_LIMIT, vol=77.09, limit=4033.74, status=PENDING]
+  Order[ORD-46, client=CLIENT-1, TSLA, BUY_LIMIT, vol=57.39, limit=674.19, status=PENDING]
+  Order[ORD-48, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=45.24, limit=2209.17, status=PENDING]
+  Order[ORD-51, client=CLIENT-1, TSLA, SELL_LIMIT, vol=44.96, limit=1152.95, status=PENDING]
+  Order[ORD-52, client=CLIENT-2, AMZN, SELL_LIMIT, vol=45.97, limit=4278.65, status=PENDING]
+  Order[ORD-56, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=64.34, limit=2218.59, status=PENDING]
+  Order[ORD-57, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=34.85, limit=2045.31, status=PENDING]
+  Order[ORD-58, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=40.36, limit=2130.88, status=PENDING]
+  Order[ORD-59, client=CLIENT-4, MSFT, SELL_LIMIT, vol=62.29, limit=426.86, status=PENDING]
+  Order[ORD-62, client=CLIENT-2, MSFT, BUY_LIMIT, vol=82.95, limit=244.52, status=PENDING]
+  Order[ORD-63, client=CLIENT-3, AAPL, SELL_LIMIT, vol=38.91, limit=184.40, status=PENDING]
+  Order[ORD-64, client=CLIENT-4, AAPL, BUY_LIMIT, vol=57.27, limit=113.24, status=PENDING]
+  Order[ORD-66, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=41.03, limit=3476.34, status=PENDING]
+  Order[ORD-69, client=CLIENT-4, AAPL, BUY_LIMIT, vol=41.27, limit=114.04, status=PENDING]
+  Order[ORD-74, client=CLIENT-4, AMZN, BUY_LIMIT, vol=65.48, limit=2495.92, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:20:52 ===
+PREȚURI CURENTE:
+  MSFT: 330.43
+  GOOGL: 2816.91
+  AAPL: 145.27
+  TSLA: 875.26
+  AMZN: 3304.49
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 527.31 / 1200.00
+  GOOGL: 120.96 / 800.00
+  AAPL: 197.88 / 1000.00
+  TSLA: 31.53 / 600.00
+  AMZN: 94.15 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 804.20
+  GOOGL: 4633.25
+  AAPL: 424.34
+  TSLA: 2062.05
+  AMZN: 7572.04
+TOTAL COMISIOANE: 15495.89
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -96282.84 (Pierdere)
+  GOOGL: 188672.20 (Profit)
+  AAPL: -56867.84 (Pierdere)
+  TSLA: -117796.86 (Pierdere)
+  AMZN: 414555.71 (Profit)
+TOTAL P&L: 332280.36
+PROFIT NET: 347776.25
+
+ORDINE PENDING: 22
+  Order[ORD-37, client=CLIENT-2, AMZN, BUY_LIMIT, vol=53.15, limit=2526.25, status=PENDING]
+  Order[ORD-38, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=73.86, limit=2160.38, status=PENDING]
+  Order[ORD-43, client=CLIENT-3, MSFT, BUY_LIMIT, vol=40.32, limit=251.64, status=PENDING]
+  Order[ORD-44, client=CLIENT-4, AMZN, SELL_LIMIT, vol=77.09, limit=4033.74, status=PENDING]
+  Order[ORD-46, client=CLIENT-1, TSLA, BUY_LIMIT, vol=57.39, limit=674.19, status=PENDING]
+  Order[ORD-48, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=45.24, limit=2209.17, status=PENDING]
+  Order[ORD-51, client=CLIENT-1, TSLA, SELL_LIMIT, vol=44.96, limit=1152.95, status=PENDING]
+  Order[ORD-52, client=CLIENT-2, AMZN, SELL_LIMIT, vol=45.97, limit=4278.65, status=PENDING]
+  Order[ORD-56, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=64.34, limit=2218.59, status=PENDING]
+  Order[ORD-57, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=34.85, limit=2045.31, status=PENDING]
+  Order[ORD-58, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=40.36, limit=2130.88, status=PENDING]
+  Order[ORD-59, client=CLIENT-4, MSFT, SELL_LIMIT, vol=62.29, limit=426.86, status=PENDING]
+  Order[ORD-62, client=CLIENT-2, MSFT, BUY_LIMIT, vol=82.95, limit=244.52, status=PENDING]
+  Order[ORD-63, client=CLIENT-3, AAPL, SELL_LIMIT, vol=38.91, limit=184.40, status=PENDING]
+  Order[ORD-64, client=CLIENT-4, AAPL, BUY_LIMIT, vol=57.27, limit=113.24, status=PENDING]
+  Order[ORD-66, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=41.03, limit=3476.34, status=PENDING]
+  Order[ORD-69, client=CLIENT-4, AAPL, BUY_LIMIT, vol=41.27, limit=114.04, status=PENDING]
+  Order[ORD-74, client=CLIENT-4, AMZN, BUY_LIMIT, vol=65.48, limit=2495.92, status=PENDING]
+  Order[ORD-79, client=CLIENT-4, AMZN, BUY_LIMIT, vol=17.57, limit=2393.79, status=PENDING]
+  Order[ORD-82, client=CLIENT-2, AAPL, BUY_LIMIT, vol=84.98, limit=109.96, status=PENDING]
+  Order[ORD-83, client=CLIENT-3, AMZN, BUY_LIMIT, vol=88.04, limit=2328.85, status=PENDING]
+  Order[ORD-84, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=48.35, limit=3514.57, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:20:54 ===
+PREȚURI CURENTE:
+  MSFT: 330.40
+  GOOGL: 2813.60
+  AAPL: 144.67
+  TSLA: 886.08
+  AMZN: 3304.33
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 557.38 / 1200.00
+  GOOGL: 74.23 / 800.00
+  AAPL: 68.50 / 1000.00
+  TSLA: 31.53 / 600.00
+  AMZN: 169.86 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 804.20
+  GOOGL: 6329.71
+  AAPL: 453.96
+  TSLA: 2062.05
+  AMZN: 7835.73
+TOTAL COMISIOANE: 17485.65
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -96282.84 (Pierdere)
+  GOOGL: 72554.88 (Profit)
+  AAPL: -50945.02 (Pierdere)
+  TSLA: -117796.86 (Pierdere)
+  AMZN: 361818.62 (Profit)
+TOTAL P&L: 169348.78
+PROFIT NET: 186834.43
+
+ORDINE PENDING: 21
+  Order[ORD-46, client=CLIENT-1, TSLA, BUY_LIMIT, vol=57.39, limit=674.19, status=PENDING]
+  Order[ORD-48, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=45.24, limit=2209.17, status=PENDING]
+  Order[ORD-51, client=CLIENT-1, TSLA, SELL_LIMIT, vol=44.96, limit=1152.95, status=PENDING]
+  Order[ORD-52, client=CLIENT-2, AMZN, SELL_LIMIT, vol=45.97, limit=4278.65, status=PENDING]
+  Order[ORD-56, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=64.34, limit=2218.59, status=PENDING]
+  Order[ORD-57, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=34.85, limit=2045.31, status=PENDING]
+  Order[ORD-58, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=40.36, limit=2130.88, status=PENDING]
+  Order[ORD-59, client=CLIENT-4, MSFT, SELL_LIMIT, vol=62.29, limit=426.86, status=PENDING]
+  Order[ORD-62, client=CLIENT-2, MSFT, BUY_LIMIT, vol=82.95, limit=244.52, status=PENDING]
+  Order[ORD-63, client=CLIENT-3, AAPL, SELL_LIMIT, vol=38.91, limit=184.40, status=PENDING]
+  Order[ORD-64, client=CLIENT-4, AAPL, BUY_LIMIT, vol=57.27, limit=113.24, status=PENDING]
+  Order[ORD-66, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=41.03, limit=3476.34, status=PENDING]
+  Order[ORD-69, client=CLIENT-4, AAPL, BUY_LIMIT, vol=41.27, limit=114.04, status=PENDING]
+  Order[ORD-74, client=CLIENT-4, AMZN, BUY_LIMIT, vol=65.48, limit=2495.92, status=PENDING]
+  Order[ORD-79, client=CLIENT-4, AMZN, BUY_LIMIT, vol=17.57, limit=2393.79, status=PENDING]
+  Order[ORD-82, client=CLIENT-2, AAPL, BUY_LIMIT, vol=84.98, limit=109.96, status=PENDING]
+  Order[ORD-83, client=CLIENT-3, AMZN, BUY_LIMIT, vol=88.04, limit=2328.85, status=PENDING]
+  Order[ORD-84, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=48.35, limit=3514.57, status=PENDING]
+  Order[ORD-86, client=CLIENT-1, AAPL, SELL_LIMIT, vol=88.44, limit=182.45, status=PENDING]
+  Order[ORD-91, client=CLIENT-1, AMZN, SELL_LIMIT, vol=38.57, limit=4188.75, status=PENDING]
+  Order[ORD-94, client=CLIENT-4, MSFT, SELL_LIMIT, vol=10.25, limit=425.66, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:20:56 ===
+PREȚURI CURENTE:
+  MSFT: 332.97
+  GOOGL: 2814.35
+  AAPL: 145.92
+  TSLA: 879.95
+  AMZN: 3301.18
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 527.12 / 1200.00
+  GOOGL: 64.71 / 800.00
+  AAPL: 68.50 / 1000.00
+  TSLA: 133.88 / 600.00
+  AMZN: 121.96 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 854.58
+  GOOGL: 7100.28
+  AAPL: 453.96
+  TSLA: 2062.05
+  AMZN: 9170.23
+TOTAL COMISIOANE: 19641.10
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -86207.10 (Pierdere)
+  GOOGL: -81558.91 (Pierdere)
+  AAPL: -50945.02 (Pierdere)
+  TSLA: -117796.86 (Pierdere)
+  AMZN: 628719.39 (Profit)
+TOTAL P&L: 292211.51
+PROFIT NET: 311852.61
+
+ORDINE PENDING: 18
+  Order[ORD-56, client=CLIENT-1, GOOGL, BUY_LIMIT, vol=64.34, limit=2218.59, status=PENDING]
+  Order[ORD-57, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=34.85, limit=2045.31, status=PENDING]
+  Order[ORD-58, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=40.36, limit=2130.88, status=PENDING]
+  Order[ORD-59, client=CLIENT-4, MSFT, SELL_LIMIT, vol=62.29, limit=426.86, status=PENDING]
+  Order[ORD-62, client=CLIENT-2, MSFT, BUY_LIMIT, vol=82.95, limit=244.52, status=PENDING]
+  Order[ORD-63, client=CLIENT-3, AAPL, SELL_LIMIT, vol=38.91, limit=184.40, status=PENDING]
+  Order[ORD-64, client=CLIENT-4, AAPL, BUY_LIMIT, vol=57.27, limit=113.24, status=PENDING]
+  Order[ORD-66, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=41.03, limit=3476.34, status=PENDING]
+  Order[ORD-69, client=CLIENT-4, AAPL, BUY_LIMIT, vol=41.27, limit=114.04, status=PENDING]
+  Order[ORD-74, client=CLIENT-4, AMZN, BUY_LIMIT, vol=65.48, limit=2495.92, status=PENDING]
+  Order[ORD-79, client=CLIENT-4, AMZN, BUY_LIMIT, vol=17.57, limit=2393.79, status=PENDING]
+  Order[ORD-82, client=CLIENT-2, AAPL, BUY_LIMIT, vol=84.98, limit=109.96, status=PENDING]
+  Order[ORD-83, client=CLIENT-3, AMZN, BUY_LIMIT, vol=88.04, limit=2328.85, status=PENDING]
+  Order[ORD-84, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=48.35, limit=3514.57, status=PENDING]
+  Order[ORD-86, client=CLIENT-1, AAPL, SELL_LIMIT, vol=88.44, limit=182.45, status=PENDING]
+  Order[ORD-91, client=CLIENT-1, AMZN, SELL_LIMIT, vol=38.57, limit=4188.75, status=PENDING]
+  Order[ORD-94, client=CLIENT-4, MSFT, SELL_LIMIT, vol=10.25, limit=425.66, status=PENDING]
+  Order[ORD-105, client=CLIENT-5, AMZN, BUY_LIMIT, vol=13.02, limit=2369.27, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:20:58 ===
+PREȚURI CURENTE:
+  MSFT: 335.30
+  GOOGL: 2811.81
+  AAPL: 145.24
+  TSLA: 876.29
+  AMZN: 3301.92
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 569.70 / 1200.00
+  GOOGL: 159.18 / 800.00
+  AAPL: 96.29 / 1000.00
+  TSLA: 63.69 / 600.00
+  AMZN: 82.82 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 871.63
+  GOOGL: 7387.79
+  AAPL: 489.77
+  TSLA: 2369.58
+  AMZN: 9170.23
+TOTAL COMISIOANE: 20289.01
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -89617.05 (Pierdere)
+  GOOGL: -139060.46 (Pierdere)
+  AAPL: -43781.64 (Pierdere)
+  TSLA: -179303.34 (Pierdere)
+  AMZN: 628719.39 (Profit)
+TOTAL P&L: 176956.90
+PROFIT NET: 197245.91
+
+ORDINE PENDING: 15
+  Order[ORD-66, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=41.03, limit=3476.34, status=PENDING]
+  Order[ORD-69, client=CLIENT-4, AAPL, BUY_LIMIT, vol=41.27, limit=114.04, status=PENDING]
+  Order[ORD-74, client=CLIENT-4, AMZN, BUY_LIMIT, vol=65.48, limit=2495.92, status=PENDING]
+  Order[ORD-79, client=CLIENT-4, AMZN, BUY_LIMIT, vol=17.57, limit=2393.79, status=PENDING]
+  Order[ORD-82, client=CLIENT-2, AAPL, BUY_LIMIT, vol=84.98, limit=109.96, status=PENDING]
+  Order[ORD-83, client=CLIENT-3, AMZN, BUY_LIMIT, vol=88.04, limit=2328.85, status=PENDING]
+  Order[ORD-84, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=48.35, limit=3514.57, status=PENDING]
+  Order[ORD-86, client=CLIENT-1, AAPL, SELL_LIMIT, vol=88.44, limit=182.45, status=PENDING]
+  Order[ORD-91, client=CLIENT-1, AMZN, SELL_LIMIT, vol=38.57, limit=4188.75, status=PENDING]
+  Order[ORD-94, client=CLIENT-4, MSFT, SELL_LIMIT, vol=10.25, limit=425.66, status=PENDING]
+  Order[ORD-105, client=CLIENT-5, AMZN, BUY_LIMIT, vol=13.02, limit=2369.27, status=PENDING]
+  Order[ORD-106, client=CLIENT-1, AMZN, SELL_LIMIT, vol=39.14, limit=4135.43, status=PENDING]
+  Order[ORD-108, client=CLIENT-3, AAPL, SELL_LIMIT, vol=19.07, limit=184.63, status=PENDING]
+  Order[ORD-111, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=24.63, limit=3645.78, status=PENDING]
+  Order[ORD-114, client=CLIENT-4, MSFT, BUY_LIMIT, vol=92.49, limit=254.74, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:00 ===
+PREȚURI CURENTE:
+  MSFT: 334.10
+  GOOGL: 2812.38
+  AAPL: 140.50
+  TSLA: 873.89
+  AMZN: 3295.43
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 443.53 / 1200.00
+  GOOGL: 171.86 / 800.00
+  AAPL: 52.76 / 1000.00
+  TSLA: 20.62 / 600.00
+  AMZN: 71.37 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 956.97
+  GOOGL: 7786.45
+  AAPL: 534.03
+  TSLA: 2557.77
+  AMZN: 10437.82
+TOTAL COMISIOANE: 22273.05
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -72548.11 (Pierdere)
+  GOOGL: -218791.51 (Pierdere)
+  AAPL: -34930.33 (Pierdere)
+  TSLA: -216941.91 (Pierdere)
+  AMZN: 375201.73 (Profit)
+TOTAL P&L: -168010.13
+PROFIT NET: -145737.09
+
+ORDINE PENDING: 15
+  Order[ORD-79, client=CLIENT-4, AMZN, BUY_LIMIT, vol=17.57, limit=2393.79, status=PENDING]
+  Order[ORD-82, client=CLIENT-2, AAPL, BUY_LIMIT, vol=84.98, limit=109.96, status=PENDING]
+  Order[ORD-83, client=CLIENT-3, AMZN, BUY_LIMIT, vol=88.04, limit=2328.85, status=PENDING]
+  Order[ORD-84, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=48.35, limit=3514.57, status=PENDING]
+  Order[ORD-86, client=CLIENT-1, AAPL, SELL_LIMIT, vol=88.44, limit=182.45, status=PENDING]
+  Order[ORD-91, client=CLIENT-1, AMZN, SELL_LIMIT, vol=38.57, limit=4188.75, status=PENDING]
+  Order[ORD-94, client=CLIENT-4, MSFT, SELL_LIMIT, vol=10.25, limit=425.66, status=PENDING]
+  Order[ORD-105, client=CLIENT-5, AMZN, BUY_LIMIT, vol=13.02, limit=2369.27, status=PENDING]
+  Order[ORD-106, client=CLIENT-1, AMZN, SELL_LIMIT, vol=39.14, limit=4135.43, status=PENDING]
+  Order[ORD-108, client=CLIENT-3, AAPL, SELL_LIMIT, vol=19.07, limit=184.63, status=PENDING]
+  Order[ORD-111, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=24.63, limit=3645.78, status=PENDING]
+  Order[ORD-114, client=CLIENT-4, MSFT, BUY_LIMIT, vol=92.49, limit=254.74, status=PENDING]
+  Order[ORD-116, client=CLIENT-1, MSFT, SELL_LIMIT, vol=27.30, limit=403.47, status=PENDING]
+  Order[ORD-118, client=CLIENT-3, MSFT, SELL_LIMIT, vol=47.78, limit=334.33, status=PENDING]
+  Order[ORD-123, client=CLIENT-3, AAPL, SELL_LIMIT, vol=21.80, limit=142.74, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:02 ===
+PREȚURI CURENTE:
+  MSFT: 330.19
+  GOOGL: 2815.05
+  AAPL: 143.88
+  TSLA: 883.95
+  AMZN: 3292.54
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 284.98 / 1200.00
+  GOOGL: 220.21 / 800.00
+  AAPL: 137.74 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 162.28 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 1126.38
+  GOOGL: 7786.45
+  AAPL: 549.71
+  TSLA: 2612.05
+  AMZN: 10679.82
+TOTAL COMISIOANE: 22754.41
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -47060.96 (Pierdere)
+  GOOGL: -218791.51 (Pierdere)
+  AAPL: -38066.98 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 326801.34 (Profit)
+TOTAL P&L: -183205.17
+PROFIT NET: -160450.76
+
+ORDINE PENDING: 11
+  Order[ORD-86, client=CLIENT-1, AAPL, SELL_LIMIT, vol=88.44, limit=182.45, status=PENDING]
+  Order[ORD-91, client=CLIENT-1, AMZN, SELL_LIMIT, vol=38.57, limit=4188.75, status=PENDING]
+  Order[ORD-94, client=CLIENT-4, MSFT, SELL_LIMIT, vol=10.25, limit=425.66, status=PENDING]
+  Order[ORD-105, client=CLIENT-5, AMZN, BUY_LIMIT, vol=13.02, limit=2369.27, status=PENDING]
+  Order[ORD-106, client=CLIENT-1, AMZN, SELL_LIMIT, vol=39.14, limit=4135.43, status=PENDING]
+  Order[ORD-108, client=CLIENT-3, AAPL, SELL_LIMIT, vol=19.07, limit=184.63, status=PENDING]
+  Order[ORD-111, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=24.63, limit=3645.78, status=PENDING]
+  Order[ORD-114, client=CLIENT-4, MSFT, BUY_LIMIT, vol=92.49, limit=254.74, status=PENDING]
+  Order[ORD-116, client=CLIENT-1, MSFT, SELL_LIMIT, vol=27.30, limit=403.47, status=PENDING]
+  Order[ORD-118, client=CLIENT-3, MSFT, SELL_LIMIT, vol=47.78, limit=334.33, status=PENDING]
+  Order[ORD-129, client=CLIENT-4, MSFT, BUY_LIMIT, vol=55.94, limit=233.97, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:04 ===
+PREȚURI CURENTE:
+  MSFT: 334.13
+  GOOGL: 2812.55
+  AAPL: 146.32
+  TSLA: 896.52
+  AMZN: 3291.57
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 39.98 / 1200.00
+  GOOGL: 172.50 / 800.00
+  AAPL: 226.18 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 96.18 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 1267.81
+  GOOGL: 8457.38
+  AAPL: 549.71
+  TSLA: 2612.05
+  AMZN: 12402.47
+TOTAL COMISIOANE: 25289.42
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -75347.99 (Pierdere)
+  GOOGL: -352978.40 (Pierdere)
+  AAPL: -38066.98 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 385095.04 (Profit)
+TOTAL P&L: -287385.39
+PROFIT NET: -262095.97
+
+ORDINE PENDING: 10
+  Order[ORD-105, client=CLIENT-5, AMZN, BUY_LIMIT, vol=13.02, limit=2369.27, status=PENDING]
+  Order[ORD-106, client=CLIENT-1, AMZN, SELL_LIMIT, vol=39.14, limit=4135.43, status=PENDING]
+  Order[ORD-108, client=CLIENT-3, AAPL, SELL_LIMIT, vol=19.07, limit=184.63, status=PENDING]
+  Order[ORD-111, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=24.63, limit=3645.78, status=PENDING]
+  Order[ORD-114, client=CLIENT-4, MSFT, BUY_LIMIT, vol=92.49, limit=254.74, status=PENDING]
+  Order[ORD-116, client=CLIENT-1, MSFT, SELL_LIMIT, vol=27.30, limit=403.47, status=PENDING]
+  Order[ORD-118, client=CLIENT-3, MSFT, SELL_LIMIT, vol=47.78, limit=334.33, status=PENDING]
+  Order[ORD-129, client=CLIENT-4, MSFT, BUY_LIMIT, vol=55.94, limit=233.97, status=PENDING]
+  Order[ORD-136, client=CLIENT-1, MSFT, BUY_LIMIT, vol=84.69, limit=257.97, status=PENDING]
+  Order[ORD-141, client=CLIENT-1, MSFT, SELL_LIMIT, vol=85.90, limit=419.41, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:06 ===
+PREȚURI CURENTE:
+  MSFT: 334.03
+  GOOGL: 2807.11
+  AAPL: 146.26
+  TSLA: 898.98
+  AMZN: 3288.28
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 39.98 / 1200.00
+  GOOGL: 31.54 / 800.00
+  AAPL: 113.86 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 17.25 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 1267.81
+  GOOGL: 8457.38
+  AAPL: 600.66
+  TSLA: 2612.05
+  AMZN: 12766.97
+TOTAL COMISIOANE: 25704.88
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -75347.99 (Pierdere)
+  GOOGL: -352978.40 (Pierdere)
+  AAPL: -30849.21 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 457996.32 (Profit)
+TOTAL P&L: -207266.35
+PROFIT NET: -181561.47
+
+ORDINE PENDING: 13
+  Order[ORD-106, client=CLIENT-1, AMZN, SELL_LIMIT, vol=39.14, limit=4135.43, status=PENDING]
+  Order[ORD-108, client=CLIENT-3, AAPL, SELL_LIMIT, vol=19.07, limit=184.63, status=PENDING]
+  Order[ORD-111, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=24.63, limit=3645.78, status=PENDING]
+  Order[ORD-114, client=CLIENT-4, MSFT, BUY_LIMIT, vol=92.49, limit=254.74, status=PENDING]
+  Order[ORD-116, client=CLIENT-1, MSFT, SELL_LIMIT, vol=27.30, limit=403.47, status=PENDING]
+  Order[ORD-118, client=CLIENT-3, MSFT, SELL_LIMIT, vol=47.78, limit=334.33, status=PENDING]
+  Order[ORD-129, client=CLIENT-4, MSFT, BUY_LIMIT, vol=55.94, limit=233.97, status=PENDING]
+  Order[ORD-136, client=CLIENT-1, MSFT, BUY_LIMIT, vol=84.69, limit=257.97, status=PENDING]
+  Order[ORD-141, client=CLIENT-1, MSFT, SELL_LIMIT, vol=85.90, limit=419.41, status=PENDING]
+  Order[ORD-147, client=CLIENT-2, AMZN, BUY_LIMIT, vol=69.78, limit=2322.24, status=PENDING]
+  Order[ORD-148, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=88.83, limit=3519.78, status=PENDING]
+  Order[ORD-150, client=CLIENT-5, AAPL, SELL_LIMIT, vol=42.65, limit=175.95, status=PENDING]
+  Order[ORD-152, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=52.13, limit=2192.74, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:08 ===
+PREȚURI CURENTE:
+  MSFT: 333.27
+  GOOGL: 2813.05
+  AAPL: 140.39
+  TSLA: 901.06
+  AMZN: 3289.30
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 132.47 / 1200.00
+  GOOGL: 56.17 / 800.00
+  AAPL: 33.29 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 56.39 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 1267.81
+  GOOGL: 8457.38
+  AAPL: 600.66
+  TSLA: 2612.05
+  AMZN: 12766.97
+TOTAL COMISIOANE: 25704.88
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -75347.99 (Pierdere)
+  GOOGL: -352978.40 (Pierdere)
+  AAPL: -30849.21 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 457996.32 (Profit)
+TOTAL P&L: -207266.35
+PROFIT NET: -181561.47
+
+ORDINE PENDING: 10
+  Order[ORD-116, client=CLIENT-1, MSFT, SELL_LIMIT, vol=27.30, limit=403.47, status=PENDING]
+  Order[ORD-118, client=CLIENT-3, MSFT, SELL_LIMIT, vol=47.78, limit=334.33, status=PENDING]
+  Order[ORD-129, client=CLIENT-4, MSFT, BUY_LIMIT, vol=55.94, limit=233.97, status=PENDING]
+  Order[ORD-136, client=CLIENT-1, MSFT, BUY_LIMIT, vol=84.69, limit=257.97, status=PENDING]
+  Order[ORD-141, client=CLIENT-1, MSFT, SELL_LIMIT, vol=85.90, limit=419.41, status=PENDING]
+  Order[ORD-147, client=CLIENT-2, AMZN, BUY_LIMIT, vol=69.78, limit=2322.24, status=PENDING]
+  Order[ORD-148, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=88.83, limit=3519.78, status=PENDING]
+  Order[ORD-150, client=CLIENT-5, AAPL, SELL_LIMIT, vol=42.65, limit=175.95, status=PENDING]
+  Order[ORD-152, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=52.13, limit=2192.74, status=PENDING]
+  Order[ORD-157, client=CLIENT-2, AAPL, SELL_LIMIT, vol=99.64, limit=178.79, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:10 ===
+PREȚURI CURENTE:
+  MSFT: 333.93
+  GOOGL: 2813.95
+  AAPL: 139.04
+  TSLA: 907.05
+  AMZN: 3292.95
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 82.92 / 1200.00
+  GOOGL: 35.27 / 800.00
+  AAPL: 15.16 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 56.39 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 1359.39
+  GOOGL: 8751.44
+  AAPL: 613.27
+  TSLA: 2612.05
+  AMZN: 12766.97
+TOTAL COMISIOANE: 26103.12
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -93663.83 (Pierdere)
+  GOOGL: -294166.87 (Pierdere)
+  AAPL: -33369.99 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 457996.32 (Profit)
+TOTAL P&L: -169291.43
+PROFIT NET: -143188.32
+
+ORDINE PENDING: 9
+  Order[ORD-129, client=CLIENT-4, MSFT, BUY_LIMIT, vol=55.94, limit=233.97, status=PENDING]
+  Order[ORD-136, client=CLIENT-1, MSFT, BUY_LIMIT, vol=84.69, limit=257.97, status=PENDING]
+  Order[ORD-141, client=CLIENT-1, MSFT, SELL_LIMIT, vol=85.90, limit=419.41, status=PENDING]
+  Order[ORD-147, client=CLIENT-2, AMZN, BUY_LIMIT, vol=69.78, limit=2322.24, status=PENDING]
+  Order[ORD-148, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=88.83, limit=3519.78, status=PENDING]
+  Order[ORD-150, client=CLIENT-5, AAPL, SELL_LIMIT, vol=42.65, limit=175.95, status=PENDING]
+  Order[ORD-152, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=52.13, limit=2192.74, status=PENDING]
+  Order[ORD-157, client=CLIENT-2, AAPL, SELL_LIMIT, vol=99.64, limit=178.79, status=PENDING]
+  Order[ORD-169, client=CLIENT-4, MSFT, BUY_LIMIT, vol=69.78, limit=237.11, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:12 ===
+PREȚURI CURENTE:
+  MSFT: 335.42
+  GOOGL: 2810.36
+  AAPL: 138.14
+  TSLA: 913.91
+  AMZN: 3289.96
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 138.86 / 1200.00
+  GOOGL: 35.27 / 800.00
+  AAPL: 15.16 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 13.42 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 1359.39
+  GOOGL: 8751.44
+  AAPL: 613.27
+  TSLA: 2612.05
+  AMZN: 12766.97
+TOTAL COMISIOANE: 26103.12
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -93663.83 (Pierdere)
+  GOOGL: -294166.87 (Pierdere)
+  AAPL: -33369.99 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 457996.32 (Profit)
+TOTAL P&L: -169291.43
+PROFIT NET: -143188.32
+
+ORDINE PENDING: 9
+  Order[ORD-136, client=CLIENT-1, MSFT, BUY_LIMIT, vol=84.69, limit=257.97, status=PENDING]
+  Order[ORD-141, client=CLIENT-1, MSFT, SELL_LIMIT, vol=85.90, limit=419.41, status=PENDING]
+  Order[ORD-147, client=CLIENT-2, AMZN, BUY_LIMIT, vol=69.78, limit=2322.24, status=PENDING]
+  Order[ORD-148, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=88.83, limit=3519.78, status=PENDING]
+  Order[ORD-150, client=CLIENT-5, AAPL, SELL_LIMIT, vol=42.65, limit=175.95, status=PENDING]
+  Order[ORD-152, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=52.13, limit=2192.74, status=PENDING]
+  Order[ORD-157, client=CLIENT-2, AAPL, SELL_LIMIT, vol=99.64, limit=178.79, status=PENDING]
+  Order[ORD-169, client=CLIENT-4, MSFT, BUY_LIMIT, vol=69.78, limit=237.11, status=PENDING]
+  Order[ORD-177, client=CLIENT-2, AMZN, BUY_LIMIT, vol=42.97, limit=2350.18, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:14 ===
+PREȚURI CURENTE:
+  MSFT: 333.77
+  GOOGL: 2816.87
+  AAPL: 136.61
+  TSLA: 923.57
+  AMZN: 3289.81
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 298.81 / 1200.00
+  GOOGL: 2.49 / 800.00
+  AAPL: 15.16 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 13.42 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 1377.15
+  GOOGL: 8960.73
+  AAPL: 613.27
+  TSLA: 2612.05
+  AMZN: 12766.97
+TOTAL COMISIOANE: 26330.17
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -90112.49 (Pierdere)
+  GOOGL: -252308.12 (Pierdere)
+  AAPL: -33369.99 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 457996.32 (Profit)
+TOTAL P&L: -123881.35
+PROFIT NET: -97551.18
+
+ORDINE PENDING: 8
+  Order[ORD-147, client=CLIENT-2, AMZN, BUY_LIMIT, vol=69.78, limit=2322.24, status=PENDING]
+  Order[ORD-148, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=88.83, limit=3519.78, status=PENDING]
+  Order[ORD-150, client=CLIENT-5, AAPL, SELL_LIMIT, vol=42.65, limit=175.95, status=PENDING]
+  Order[ORD-152, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=52.13, limit=2192.74, status=PENDING]
+  Order[ORD-157, client=CLIENT-2, AAPL, SELL_LIMIT, vol=99.64, limit=178.79, status=PENDING]
+  Order[ORD-169, client=CLIENT-4, MSFT, BUY_LIMIT, vol=69.78, limit=237.11, status=PENDING]
+  Order[ORD-177, client=CLIENT-2, AMZN, BUY_LIMIT, vol=42.97, limit=2350.18, status=PENDING]
+  Order[ORD-186, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=17.92, limit=3638.94, status=PENDING]
+
+
+=== AUDIT 2026-02-01 23:21:16 ===
+PREȚURI CURENTE:
+  MSFT: 334.19
+  GOOGL: 2809.14
+  AAPL: 137.51
+  TSLA: 919.90
+  AMZN: 3289.96
+
+LICHIDITATE DISPONIBILĂ:
+  MSFT: 157.78 / 1200.00
+  GOOGL: 143.45 / 800.00
+  AAPL: 57.81 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 83.20 / 900.00
+
+COMISIOANE PER INSTRUMENT:
+  MSFT: 1481.08
+  GOOGL: 8960.73
+  AAPL: 613.27
+  TSLA: 2612.05
+  AMZN: 12766.97
+TOTAL COMISIOANE: 26434.10
+
+P&L PER INSTRUMENT (Incăsări - Plăți):
+  MSFT: -110898.97 (Pierdere)
+  GOOGL: -252308.12 (Pierdere)
+  AAPL: -33369.99 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 457996.32 (Profit)
+TOTAL P&L: -144667.83
+PROFIT NET: -118233.73
 
 ORDINE PENDING: 5
-  Order[ORD-46, client=CLIENT-1, MSFT, SELL_LIMIT, vol=55.94, limit=307.22, status=PENDING]
-  Order[ORD-47, client=CLIENT-3, GOOGL, SELL_LIMIT, vol=72.42, limit=2696.05, status=PENDING]
-  Order[ORD-48, client=CLIENT-2, GOOGL, BUY_LIMIT, vol=53.12, limit=3049.79, status=PENDING]
-  Order[ORD-49, client=CLIENT-4, GOOGL, BUY_LIMIT, vol=89.53, limit=2932.37, status=PENDING]
-  Order[ORD-50, client=CLIENT-5, AMZN, SELL_LIMIT, vol=42.84, limit=3178.99, status=PENDING]
+  Order[ORD-157, client=CLIENT-2, AAPL, SELL_LIMIT, vol=99.64, limit=178.79, status=PENDING]
+  Order[ORD-169, client=CLIENT-4, MSFT, BUY_LIMIT, vol=69.78, limit=237.11, status=PENDING]
+  Order[ORD-177, client=CLIENT-2, AMZN, BUY_LIMIT, vol=42.97, limit=2350.18, status=PENDING]
+  Order[ORD-186, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=17.92, limit=3638.94, status=PENDING]
+  Order[ORD-197, client=CLIENT-2, MSFT, SELL_LIMIT, vol=78.83, limit=408.10, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:34 ===
+=== AUDIT 2026-02-01 23:21:18 ===
 PREȚURI CURENTE:
-  MSFT: 336.51
-  GOOGL: 2803.53
-  AAPL: 145.67
-  TSLA: 905.31
-  AMZN: 3306.85
+  MSFT: 335.23
+  GOOGL: 2811.51
+  AAPL: 137.66
+  TSLA: 921.17
+  AMZN: 3287.49
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 643.42 / 1200.00
-  GOOGL: 259.54 / 800.00
-  AAPL: 554.92 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 502.55 / 900.00
+  MSFT: 10.25 / 1200.00
+  GOOGL: 30.65 / 800.00
+  AAPL: 129.44 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 33.75 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 936.55
-  GOOGL: 7562.20
-  AAPL: 325.19
-  TSLA: 2705.10
-  AMZN: 6561.01
-TOTAL COMISIOANE: 18090.05
+  MSFT: 1646.25
+  GOOGL: 8960.73
+  AAPL: 632.55
+  TSLA: 2612.05
+  AMZN: 13579.80
+TOTAL COMISIOANE: 27431.38
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 12183.45 (Profit)
-  GOOGL: 961774.53 (Profit)
-  AAPL: -30841.54 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: 292415.40 (Profit)
-TOTAL P&L: 1274465.78
-PROFIT NET: 1292555.83
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -252308.12 (Pierdere)
+  AAPL: -37225.78 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 295429.73 (Profit)
+TOTAL P&L: -344124.24
+PROFIT NET: -316692.86
 
-ORDINE PENDING: 0
+ORDINE PENDING: 7
+  Order[ORD-169, client=CLIENT-4, MSFT, BUY_LIMIT, vol=69.78, limit=237.11, status=PENDING]
+  Order[ORD-177, client=CLIENT-2, AMZN, BUY_LIMIT, vol=42.97, limit=2350.18, status=PENDING]
+  Order[ORD-186, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=17.92, limit=3638.94, status=PENDING]
+  Order[ORD-197, client=CLIENT-2, MSFT, SELL_LIMIT, vol=78.83, limit=408.10, status=PENDING]
+  Order[ORD-208, client=CLIENT-3, MSFT, SELL_LIMIT, vol=48.99, limit=415.45, status=PENDING]
+  Order[ORD-209, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=42.34, limit=3580.18, status=PENDING]
+  Order[ORD-210, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=70.46, limit=2196.39, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:36 ===
+=== AUDIT 2026-02-01 23:21:20 ===
 PREȚURI CURENTE:
-  MSFT: 335.31
-  GOOGL: 2800.00
-  AAPL: 144.93
-  TSLA: 891.52
-  AMZN: 3306.04
+  MSFT: 335.18
+  GOOGL: 2806.87
+  AAPL: 139.21
+  TSLA: 918.83
+  AMZN: 3285.82
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 492.46 / 1200.00
-  GOOGL: 38.37 / 800.00
-  AAPL: 462.15 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 414.11 / 900.00
+  MSFT: 80.03 / 1200.00
+  GOOGL: 30.65 / 800.00
+  AAPL: 41.59 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 33.75 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 1189.64
-  GOOGL: 10658.58
-  AAPL: 392.42
-  TSLA: 2705.10
-  AMZN: 8022.94
-TOTAL COMISIOANE: 22968.67
+  MSFT: 1646.25
+  GOOGL: 8960.73
+  AAPL: 632.55
+  TSLA: 2612.05
+  AMZN: 13579.80
+TOTAL COMISIOANE: 27431.38
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 36332.37 (Profit)
-  GOOGL: 845770.60 (Profit)
-  AAPL: -17396.64 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: 29.54 (Profit)
-TOTAL P&L: 903669.81
-PROFIT NET: 926638.48
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -252308.12 (Pierdere)
+  AAPL: -37225.78 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 295429.73 (Profit)
+TOTAL P&L: -344124.24
+PROFIT NET: -316692.86
 
-ORDINE PENDING: 0
+ORDINE PENDING: 7
+  Order[ORD-177, client=CLIENT-2, AMZN, BUY_LIMIT, vol=42.97, limit=2350.18, status=PENDING]
+  Order[ORD-186, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=17.92, limit=3638.94, status=PENDING]
+  Order[ORD-197, client=CLIENT-2, MSFT, SELL_LIMIT, vol=78.83, limit=408.10, status=PENDING]
+  Order[ORD-208, client=CLIENT-3, MSFT, SELL_LIMIT, vol=48.99, limit=415.45, status=PENDING]
+  Order[ORD-209, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=42.34, limit=3580.18, status=PENDING]
+  Order[ORD-210, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=70.46, limit=2196.39, status=PENDING]
+  Order[ORD-220, client=CLIENT-5, AAPL, BUY_LIMIT, vol=87.85, limit=99.76, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:38 ===
+=== AUDIT 2026-02-01 23:21:22 ===
 PREȚURI CURENTE:
-  MSFT: 335.47
-  GOOGL: 2797.28
-  AAPL: 143.17
-  TSLA: 889.10
-  AMZN: 3304.11
+  MSFT: 332.50
+  GOOGL: 2802.32
+  AAPL: 137.95
+  TSLA: 913.80
+  AMZN: 3283.12
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 454.98 / 1200.00
-  GOOGL: 38.37 / 800.00
-  AAPL: 273.30 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 414.11 / 900.00
+  MSFT: 20.22 / 1200.00
+  GOOGL: 30.65 / 800.00
+  AAPL: 19.16 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 60.35 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 1252.50
-  GOOGL: 10658.58
-  AAPL: 527.61
-  TSLA: 2705.10
-  AMZN: 8022.94
-TOTAL COMISIOANE: 23166.73
+  MSFT: 1646.25
+  GOOGL: 8960.73
+  AAPL: 632.55
+  TSLA: 2612.05
+  AMZN: 13848.53
+TOTAL COMISIOANE: 27700.10
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 38398.85 (Profit)
-  GOOGL: 845770.60 (Profit)
-  AAPL: -32393.75 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: 29.54 (Profit)
-TOTAL P&L: 890739.17
-PROFIT NET: 913905.90
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -252308.12 (Pierdere)
+  AAPL: -37225.78 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 241685.08 (Profit)
+TOTAL P&L: -397868.89
+PROFIT NET: -370168.78
 
-ORDINE PENDING: 0
+ORDINE PENDING: 9
+  Order[ORD-186, client=CLIENT-1, GOOGL, SELL_LIMIT, vol=17.92, limit=3638.94, status=PENDING]
+  Order[ORD-197, client=CLIENT-2, MSFT, SELL_LIMIT, vol=78.83, limit=408.10, status=PENDING]
+  Order[ORD-208, client=CLIENT-3, MSFT, SELL_LIMIT, vol=48.99, limit=415.45, status=PENDING]
+  Order[ORD-209, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=42.34, limit=3580.18, status=PENDING]
+  Order[ORD-210, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=70.46, limit=2196.39, status=PENDING]
+  Order[ORD-220, client=CLIENT-5, AAPL, BUY_LIMIT, vol=87.85, limit=99.76, status=PENDING]
+  Order[ORD-226, client=CLIENT-1, AAPL, BUY_LIMIT, vol=22.43, limit=104.53, status=PENDING]
+  Order[ORD-230, client=CLIENT-5, MSFT, SELL_LIMIT, vol=10.81, limit=410.14, status=PENDING]
+  Order[ORD-231, client=CLIENT-1, MSFT, BUY_LIMIT, vol=49.00, limit=262.78, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:40 ===
+=== AUDIT 2026-02-01 23:21:24 ===
 PREȚURI CURENTE:
-  MSFT: 334.95
-  GOOGL: 2793.73
-  AAPL: 145.78
-  TSLA: 893.72
-  AMZN: 3309.03
+  MSFT: 331.96
+  GOOGL: 2802.46
+  AAPL: 135.50
+  TSLA: 913.26
+  AMZN: 3286.50
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 205.80 / 1200.00
-  GOOGL: 38.37 / 800.00
-  AAPL: 239.92 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 280.81 / 900.00
+  MSFT: 20.22 / 1200.00
+  GOOGL: 48.57 / 800.00
+  AAPL: 19.16 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 16.61 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 1669.81
-  GOOGL: 10658.58
-  AAPL: 551.94
-  TSLA: 2705.10
-  AMZN: 10228.41
-TOTAL COMISIOANE: 25813.83
+  MSFT: 1646.25
+  GOOGL: 8960.73
+  AAPL: 632.55
+  TSLA: 2612.05
+  AMZN: 14358.10
+TOTAL COMISIOANE: 28209.68
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 9225.05 (Profit)
-  GOOGL: 845770.60 (Profit)
-  AAPL: -27527.68 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -441063.61 (Pierdere)
-TOTAL P&L: 425338.29
-PROFIT NET: 451152.12
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -252308.12 (Pierdere)
+  AAPL: -37225.78 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 139770.58 (Profit)
+TOTAL P&L: -499783.39
+PROFIT NET: -471573.72
 
-ORDINE PENDING: 0
+ORDINE PENDING: 9
+  Order[ORD-197, client=CLIENT-2, MSFT, SELL_LIMIT, vol=78.83, limit=408.10, status=PENDING]
+  Order[ORD-208, client=CLIENT-3, MSFT, SELL_LIMIT, vol=48.99, limit=415.45, status=PENDING]
+  Order[ORD-209, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=42.34, limit=3580.18, status=PENDING]
+  Order[ORD-210, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=70.46, limit=2196.39, status=PENDING]
+  Order[ORD-220, client=CLIENT-5, AAPL, BUY_LIMIT, vol=87.85, limit=99.76, status=PENDING]
+  Order[ORD-226, client=CLIENT-1, AAPL, BUY_LIMIT, vol=22.43, limit=104.53, status=PENDING]
+  Order[ORD-230, client=CLIENT-5, MSFT, SELL_LIMIT, vol=10.81, limit=410.14, status=PENDING]
+  Order[ORD-231, client=CLIENT-1, MSFT, BUY_LIMIT, vol=49.00, limit=262.78, status=PENDING]
+  Order[ORD-241, client=CLIENT-1, AMZN, BUY_LIMIT, vol=12.73, limit=2508.85, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:42 ===
+=== AUDIT 2026-02-01 23:21:26 ===
 PREȚURI CURENTE:
-  MSFT: 332.37
-  GOOGL: 2798.04
-  AAPL: 147.42
-  TSLA: 900.23
-  AMZN: 3311.85
+  MSFT: 331.98
+  GOOGL: 2800.37
+  AAPL: 134.50
+  TSLA: 908.67
+  AMZN: 3281.51
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 44.65 / 1200.00
-  GOOGL: 38.37 / 800.00
-  AAPL: 239.92 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 139.24 / 900.00
+  MSFT: 99.05 / 1200.00
+  GOOGL: 48.57 / 800.00
+  AAPL: 19.16 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 0.35 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 1937.62
-  GOOGL: 10658.58
-  AAPL: 551.94
-  TSLA: 2705.10
-  AMZN: 12572.70
-TOTAL COMISIOANE: 28425.94
+  MSFT: 1646.25
+  GOOGL: 8960.73
+  AAPL: 632.55
+  TSLA: 2612.05
+  AMZN: 14624.89
+TOTAL COMISIOANE: 28476.46
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: 1683.57 (Profit)
-  GOOGL: 845770.60 (Profit)
-  AAPL: -27527.68 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -570855.14 (Pierdere)
-TOTAL P&L: 288005.28
-PROFIT NET: 316431.21
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -252308.12 (Pierdere)
+  AAPL: -37225.78 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 193127.98 (Profit)
+TOTAL P&L: -446425.99
+PROFIT NET: -417949.52
 
-ORDINE PENDING: 0
+ORDINE PENDING: 8
+  Order[ORD-208, client=CLIENT-3, MSFT, SELL_LIMIT, vol=48.99, limit=415.45, status=PENDING]
+  Order[ORD-209, client=CLIENT-4, GOOGL, SELL_LIMIT, vol=42.34, limit=3580.18, status=PENDING]
+  Order[ORD-210, client=CLIENT-5, GOOGL, BUY_LIMIT, vol=70.46, limit=2196.39, status=PENDING]
+  Order[ORD-220, client=CLIENT-5, AAPL, BUY_LIMIT, vol=87.85, limit=99.76, status=PENDING]
+  Order[ORD-226, client=CLIENT-1, AAPL, BUY_LIMIT, vol=22.43, limit=104.53, status=PENDING]
+  Order[ORD-230, client=CLIENT-5, MSFT, SELL_LIMIT, vol=10.81, limit=410.14, status=PENDING]
+  Order[ORD-231, client=CLIENT-1, MSFT, BUY_LIMIT, vol=49.00, limit=262.78, status=PENDING]
+  Order[ORD-241, client=CLIENT-1, AMZN, BUY_LIMIT, vol=12.73, limit=2508.85, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:44 ===
+=== AUDIT 2026-02-01 23:21:28 ===
 PREȚURI CURENTE:
-  MSFT: 329.48
-  GOOGL: 2790.11
-  AAPL: 149.37
-  TSLA: 899.69
-  AMZN: 3307.96
+  MSFT: 333.33
+  GOOGL: 2808.18
+  AAPL: 134.83
+  TSLA: 896.04
+  AMZN: 3273.71
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 17.39 / 1200.00
-  GOOGL: 38.37 / 800.00
-  AAPL: 134.24 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 93.11 / 900.00
+  MSFT: 148.04 / 1200.00
+  GOOGL: 122.31 / 800.00
+  AAPL: 3.61 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 0.35 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 1982.53
-  GOOGL: 10658.58
-  AAPL: 630.86
-  TSLA: 2705.10
-  AMZN: 13335.68
-TOTAL COMISIOANE: 29312.75
+  MSFT: 1646.25
+  GOOGL: 9509.17
+  AAPL: 643.03
+  TSLA: 2612.05
+  AMZN: 14624.89
+TOTAL COMISIOANE: 29035.38
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -7297.96 (Pierdere)
-  GOOGL: 845770.60 (Profit)
-  AAPL: -18651.97 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -723451.38 (Pierdere)
-TOTAL P&L: 135303.23
-PROFIT NET: 164615.98
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -361995.64 (Pierdere)
+  AAPL: -39322.39 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 193127.98 (Profit)
+TOTAL P&L: -558210.11
+PROFIT NET: -529174.73
 
-ORDINE PENDING: 0
+ORDINE PENDING: 5
+  Order[ORD-220, client=CLIENT-5, AAPL, BUY_LIMIT, vol=87.85, limit=99.76, status=PENDING]
+  Order[ORD-226, client=CLIENT-1, AAPL, BUY_LIMIT, vol=22.43, limit=104.53, status=PENDING]
+  Order[ORD-230, client=CLIENT-5, MSFT, SELL_LIMIT, vol=10.81, limit=410.14, status=PENDING]
+  Order[ORD-231, client=CLIENT-1, MSFT, BUY_LIMIT, vol=49.00, limit=262.78, status=PENDING]
+  Order[ORD-241, client=CLIENT-1, AMZN, BUY_LIMIT, vol=12.73, limit=2508.85, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:46 ===
+=== AUDIT 2026-02-01 23:21:30 ===
 PREȚURI CURENTE:
-  MSFT: 327.90
-  GOOGL: 2784.08
-  AAPL: 148.84
-  TSLA: 889.71
-  AMZN: 3309.45
+  MSFT: 334.39
+  GOOGL: 2806.68
+  AAPL: 135.30
+  TSLA: 889.90
+  AMZN: 3277.06
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 17.39 / 1200.00
-  GOOGL: 23.71 / 800.00
-  AAPL: 83.66 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 73.37 / 900.00
+  MSFT: 51.56 / 1200.00
+  GOOGL: 23.75 / 800.00
+  AAPL: 91.46 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 0.35 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 1982.53
-  GOOGL: 10862.65
-  AAPL: 668.51
-  TSLA: 2705.10
-  AMZN: 13662.33
-TOTAL COMISIOANE: 29881.11
+  MSFT: 1646.25
+  GOOGL: 10892.30
+  AAPL: 643.03
+  TSLA: 2612.05
+  AMZN: 14624.89
+TOTAL COMISIOANE: 30418.52
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -7297.96 (Pierdere)
-  GOOGL: 886585.16 (Profit)
-  AAPL: -11123.77 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -658122.87 (Pierdere)
-TOTAL P&L: 248974.49
-PROFIT NET: 278855.60
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -638621.94 (Pierdere)
+  AAPL: -39322.39 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 193127.98 (Profit)
+TOTAL P&L: -834836.41
+PROFIT NET: -804417.89
 
-ORDINE PENDING: 0
+ORDINE PENDING: 5
+  Order[ORD-226, client=CLIENT-1, AAPL, BUY_LIMIT, vol=22.43, limit=104.53, status=PENDING]
+  Order[ORD-230, client=CLIENT-5, MSFT, SELL_LIMIT, vol=10.81, limit=410.14, status=PENDING]
+  Order[ORD-231, client=CLIENT-1, MSFT, BUY_LIMIT, vol=49.00, limit=262.78, status=PENDING]
+  Order[ORD-241, client=CLIENT-1, AMZN, BUY_LIMIT, vol=12.73, limit=2508.85, status=PENDING]
+  Order[ORD-266, client=CLIENT-1, MSFT, SELL_LIMIT, vol=96.48, limit=411.81, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:48 ===
+=== AUDIT 2026-02-01 23:21:32 ===
 PREȚURI CURENTE:
-  MSFT: 327.84
-  GOOGL: 2775.57
-  AAPL: 148.69
-  TSLA: 892.87
-  AMZN: 3309.98
+  MSFT: 334.90
+  GOOGL: 2806.99
+  AAPL: 137.56
+  TSLA: 882.40
+  AMZN: 3275.32
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 17.39 / 1200.00
-  GOOGL: 12.49 / 800.00
-  AAPL: 44.68 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
+  MSFT: 111.37 / 1200.00
+  GOOGL: 5.58 / 800.00
+  AAPL: 57.54 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 0.35 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 1982.53
-  GOOGL: 11018.36
-  AAPL: 697.48
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31143.36
+  MSFT: 1646.25
+  GOOGL: 10892.30
+  AAPL: 643.03
+  TSLA: 2612.05
+  AMZN: 14624.89
+TOTAL COMISIOANE: 30418.52
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -7297.96 (Pierdere)
-  GOOGL: 855443.31 (Profit)
-  AAPL: -16919.57 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 138058.86
-PROFIT NET: 169202.23
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -638621.94 (Pierdere)
+  AAPL: -39322.39 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 193127.98 (Profit)
+TOTAL P&L: -834836.41
+PROFIT NET: -804417.89
 
-ORDINE PENDING: 0
+ORDINE PENDING: 4
+  Order[ORD-241, client=CLIENT-1, AMZN, BUY_LIMIT, vol=12.73, limit=2508.85, status=PENDING]
+  Order[ORD-266, client=CLIENT-1, MSFT, SELL_LIMIT, vol=96.48, limit=411.81, status=PENDING]
+  Order[ORD-278, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=18.17, limit=1973.30, status=PENDING]
+  Order[ORD-279, client=CLIENT-4, AAPL, SELL_LIMIT, vol=56.35, limit=171.38, status=PENDING]
 
 
-=== AUDIT 2026-02-01 23:09:50 ===
+=== AUDIT 2026-02-01 23:21:34 ===
 PREȚURI CURENTE:
-  MSFT: 326.54
-  GOOGL: 2772.41
-  AAPL: 147.84
-  TSLA: 884.02
-  AMZN: 3307.67
+  MSFT: 337.13
+  GOOGL: 2810.46
+  AAPL: 135.43
+  TSLA: 886.68
+  AMZN: 3270.58
 
 LICHIDITATE DISPONIBILĂ:
-  MSFT: 17.39 / 1200.00
-  GOOGL: 12.49 / 800.00
-  AAPL: 16.88 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
+  MSFT: 26.69 / 1200.00
+  GOOGL: 5.58 / 800.00
+  AAPL: 57.54 / 1000.00
+  TSLA: 8.34 / 600.00
+  AMZN: 13.08 / 900.00
 
 COMISIOANE PER INSTRUMENT:
-  MSFT: 1982.53
-  GOOGL: 11018.36
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31163.91
+  MSFT: 1646.25
+  GOOGL: 10892.30
+  AAPL: 643.03
+  TSLA: 2612.05
+  AMZN: 14624.89
+TOTAL COMISIOANE: 30418.52
 
 P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -7297.96 (Pierdere)
-  GOOGL: 855443.31 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 133949.04
-PROFIT NET: 165112.95
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:09:52 ===
-PREȚURI CURENTE:
-  MSFT: 328.62
-  GOOGL: 2776.09
-  AAPL: 145.07
-  TSLA: 882.12
-  AMZN: 3310.81
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 17.39 / 1200.00
-  GOOGL: 12.49 / 800.00
-  AAPL: 16.88 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 1982.53
-  GOOGL: 11018.36
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31163.91
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -7297.96 (Pierdere)
-  GOOGL: 855443.31 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 133949.04
-PROFIT NET: 165112.95
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:09:54 ===
-PREȚURI CURENTE:
-  MSFT: 330.45
-  GOOGL: 2769.17
-  AAPL: 150.60
-  TSLA: 893.15
-  AMZN: 3313.80
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 17.39 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 4.77 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 1982.53
-  GOOGL: 11160.01
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31305.55
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -7297.96 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 105620.38
-PROFIT NET: 136925.94
-
-ORDINE PENDING: 1
-  Order[ORD-152, client=CLIENT-2, AAPL, BUY_LIMIT, vol=12.11, limit=146.77, status=PENDING]
-
-
-=== AUDIT 2026-02-01 23:09:56 ===
-PREȚURI CURENTE:
-  MSFT: 337.14
-  GOOGL: 2775.28
-  AAPL: 155.47
-  TSLA: 885.26
-  AMZN: 3312.20
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 4.77 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31326.95
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 101342.08
-PROFIT NET: 132669.02
-
-ORDINE PENDING: 1
-  Order[ORD-152, client=CLIENT-2, AAPL, BUY_LIMIT, vol=12.11, limit=146.77, status=PENDING]
-
-
-=== AUDIT 2026-02-01 23:09:58 ===
-PREȚURI CURENTE:
-  MSFT: 341.15
-  GOOGL: 2778.65
-  AAPL: 155.27
-  TSLA: 887.95
-  AMZN: 3310.50
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 4.77 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31326.95
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 101342.08
-PROFIT NET: 132669.02
-
-ORDINE PENDING: 1
-  Order[ORD-152, client=CLIENT-2, AAPL, BUY_LIMIT, vol=12.11, limit=146.77, status=PENDING]
-
-
-=== AUDIT 2026-02-01 23:10:00 ===
-PREȚURI CURENTE:
-  MSFT: 342.58
-  GOOGL: 2777.35
-  AAPL: 152.69
-  TSLA: 890.06
-  AMZN: 3309.72
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 4.77 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31326.95
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 101342.08
-PROFIT NET: 132669.02
-
-ORDINE PENDING: 1
-  Order[ORD-152, client=CLIENT-2, AAPL, BUY_LIMIT, vol=12.11, limit=146.77, status=PENDING]
-
-
-=== AUDIT 2026-02-01 23:10:02 ===
-PREȚURI CURENTE:
-  MSFT: 339.22
-  GOOGL: 2777.27
-  AAPL: 154.53
-  TSLA: 890.20
-  AMZN: 3312.67
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 4.77 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31326.95
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 101342.08
-PROFIT NET: 132669.02
-
-ORDINE PENDING: 1
-  Order[ORD-152, client=CLIENT-2, AAPL, BUY_LIMIT, vol=12.11, limit=146.77, status=PENDING]
-
-
-=== AUDIT 2026-02-01 23:10:04 ===
-PREȚURI CURENTE:
-  MSFT: 341.54
-  GOOGL: 2786.28
-  AAPL: 149.30
-  TSLA: 898.73
-  AMZN: 3315.61
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 16.88 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31326.95
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 101342.08
-PROFIT NET: 132669.02
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:06 ===
-PREȚURI CURENTE:
-  MSFT: 343.51
-  GOOGL: 2780.77
-  AAPL: 152.99
-  TSLA: 884.76
-  AMZN: 3315.47
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 16.88 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 718.03
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31326.95
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -21029.40 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 101342.08
-PROFIT NET: 132669.02
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:08 ===
-PREȚURI CURENTE:
-  MSFT: 340.88
-  GOOGL: 2785.33
-  AAPL: 152.51
-  TSLA: 880.78
-  AMZN: 3316.36
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 2.93 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 728.67
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31337.58
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -23156.85 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 99214.63
-PROFIT NET: 130552.21
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:10 ===
-PREȚURI CURENTE:
-  MSFT: 341.26
-  GOOGL: 2790.37
-  AAPL: 148.41
-  TSLA: 890.23
-  AMZN: 3325.45
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 2.93 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 728.67
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31337.58
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -23156.85 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 99214.63
-PROFIT NET: 130552.21
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:12 ===
-PREȚURI CURENTE:
-  MSFT: 339.66
-  GOOGL: 2788.46
-  AAPL: 150.38
-  TSLA: 898.06
-  AMZN: 3322.78
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 2.93 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 728.67
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31337.58
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -23156.85 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 99214.63
-PROFIT NET: 130552.21
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:14 ===
-PREȚURI CURENTE:
-  MSFT: 335.52
-  GOOGL: 2797.10
-  AAPL: 149.89
-  TSLA: 902.23
-  AMZN: 3321.81
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 2.93 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 728.67
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31337.58
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -23156.85 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 99214.63
-PROFIT NET: 130552.21
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:16 ===
-PREȚURI CURENTE:
-  MSFT: 337.06
-  GOOGL: 2794.58
-  AAPL: 149.67
-  TSLA: 903.54
-  AMZN: 3323.16
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 2.93 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 728.67
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31337.58
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -23156.85 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 99214.63
-PROFIT NET: 130552.21
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:18 ===
-PREȚURI CURENTE:
-  MSFT: 338.68
-  GOOGL: 2802.94
-  AAPL: 145.73
-  TSLA: 895.55
-  AMZN: 3320.56
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 2.93 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 728.67
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31337.58
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -23156.85 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 99214.63
-PROFIT NET: 130552.21
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:20 ===
-PREȚURI CURENTE:
-  MSFT: 341.55
-  GOOGL: 2799.75
-  AAPL: 145.37
-  TSLA: 898.72
-  AMZN: 3320.76
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 2.93 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 728.67
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31337.58
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -23156.85 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 99214.63
-PROFIT NET: 130552.21
-
-ORDINE PENDING: 0
-
-
-=== AUDIT 2026-02-01 23:10:22 ===
-PREȚURI CURENTE:
-  MSFT: 341.45
-  GOOGL: 2795.49
-  AAPL: 144.83
-  TSLA: 897.35
-  AMZN: 3321.40
-
-LICHIDITATE DISPONIBILĂ:
-  MSFT: 4.70 / 1200.00
-  GOOGL: 2.26 / 800.00
-  AAPL: 2.93 / 1000.00
-  TSLA: 7.94 / 600.00
-  AMZN: 8.26 / 900.00
-
-COMISIOANE PER INSTRUMENT:
-  MSFT: 2003.92
-  GOOGL: 11160.01
-  AAPL: 728.67
-  TSLA: 2705.10
-  AMZN: 14739.89
-TOTAL COMISIOANE: 31337.58
-
-P&L PER INSTRUMENT (Incăsări - Plăți):
-  MSFT: -11576.26 (Pierdere)
-  GOOGL: 827114.65 (Profit)
-  AAPL: -23156.85 (Pierdere)
-  TSLA: 38933.93 (Profit)
-  AMZN: -732100.85 (Pierdere)
-TOTAL P&L: 99214.63
-PROFIT NET: 130552.21
-
-ORDINE PENDING: 0
+  MSFT: -143933.01 (Pierdere)
+  GOOGL: -638621.94 (Pierdere)
+  AAPL: -39322.39 (Pierdere)
+  TSLA: -206087.06 (Pierdere)
+  AMZN: 193127.98 (Profit)
+TOTAL P&L: -834836.41
+PROFIT NET: -804417.89
+
+ORDINE PENDING: 5
+  Order[ORD-266, client=CLIENT-1, MSFT, SELL_LIMIT, vol=96.48, limit=411.81, status=PENDING]
+  Order[ORD-278, client=CLIENT-3, GOOGL, BUY_LIMIT, vol=18.17, limit=1973.30, status=PENDING]
+  Order[ORD-279, client=CLIENT-4, AAPL, SELL_LIMIT, vol=56.35, limit=171.38, status=PENDING]
+  Order[ORD-286, client=CLIENT-1, MSFT, BUY_LIMIT, vol=25.31, limit=251.08, status=PENDING]
+  Order[ORD-294, client=CLIENT-4, MSFT, BUY_LIMIT, vol=59.37, limit=256.35, status=PENDING]
 

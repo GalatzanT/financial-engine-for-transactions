@@ -194,7 +194,7 @@ public class TradingEngine {
         
         FileLogger.logWithTimestamp("cancellations.txt", 
             order.getOrderId() + " | " + order.getInstrument().getId() + 
-            " | Expirat după 30 secunde");
+            " | Expirat după 10 secunde");
         
         System.out.println("⏱️ ANULAT (expirat): " + order.getOrderId());
     }

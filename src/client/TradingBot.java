@@ -126,15 +126,31 @@ public class TradingBot implements Runnable {
             // Generează volum aleator (între 10 și 100)
             double volume = 10 + random.nextDouble() * 90;
             
-            // Generează preț limită (în jurul prețului curent ± 10%)
+            // Strategie: 50% ordine conservatoare (vor expira), 50% agresive (se execută)
             double currentPrice = instrument.getCurrentPrice();
             double limitPrice;
+            boolean isConservative = random.nextDouble() < 0.5; // 50% șansă
+            
             if (orderType == OrderType.BUY_LIMIT) {
-                // Pentru BUY_LIMIT: preț limită puțin peste prețul curent
-                limitPrice = currentPrice * (1.0 + random.nextDouble() * 0.1);
+                if (isConservative) {
+                    // BUY conservator: vrei să cumperi IEFTIN (sub preț curent)
+                    // Limită 20-30% SUB preț - va aștepta ca prețul să scadă
+                    limitPrice = currentPrice * (0.70 + random.nextDouble() * 0.10); // 70-80% din preț
+                } else {
+                    // BUY agresiv: accepți să plătești mai mult
+                    // Limită 0-5% PESTE preț - se execută imediat
+                    limitPrice = currentPrice * (1.0 + random.nextDouble() * 0.05);
+                }
             } else {
-                // Pentru SELL_LIMIT: preț limită puțin sub prețul curent
-                limitPrice = currentPrice * (0.9 + random.nextDouble() * 0.1);
+                if (isConservative) {
+                    // SELL conservator: vrei să vinzi SCUMP (peste preț curent)
+                    // Limită 20-30% PESTE preț - va aștepta ca prețul să crească
+                    limitPrice = currentPrice * (1.20 + random.nextDouble() * 0.10); // 120-130% din preț
+                } else {
+                    // SELL agresiv: accepți să primești mai puțin
+                    // Limită 0-5% SUB preț - se execută imediat
+                    limitPrice = currentPrice * (0.95 + random.nextDouble() * 0.05);
+                }
             }
             
             System.out.printf("\n[%s] Trimite ordin: %s %s %.2f @ %.2f (curent: %.2f)\n",
