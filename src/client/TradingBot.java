@@ -126,10 +126,10 @@ public class TradingBot implements Runnable {
             // Generează volum aleator (între 10 și 100)
             double volume = 10 + random.nextDouble() * 90;
             
-            // Strategie: 50% ordine conservatoare (vor expira), 50% agresive (se execută)
+            // Strategie: 25% ordine conservatoare (vor expira), 75% agresive (se execută defavorabil)
             double currentPrice = instrument.getCurrentPrice();
             double limitPrice;
-            boolean isConservative = random.nextDouble() < 0.5; // 50% șansă
+            boolean isConservative = random.nextDouble() < 0.25; // 25% șansă
             
             if (orderType == OrderType.BUY_LIMIT) {
                 if (isConservative) {
